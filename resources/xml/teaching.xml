@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <teaching>
   <supervisions>
-      <thesis>
-        <author>Sascha Lamp</author>
-        <title>Selektive Speicherung von Zuständen auf Basis von Transitionsinvarianten in Petrinetzen</title>
-        <type>Bachelor thesis</type>
-        <institution>Universität Rostock</institution>
-        <date>02 Sep 2013</date>
-      </thesis>
+    <thesis>
+      <author>Sascha Lamp</author>
+      <title>Selektive Speicherung von Zuständen auf Basis von Transitionsinvarianten in Petrinetzen</title>
+      <type>Bachelor thesis</type>
+      <institution>Universität Rostock</institution>
+      <date>02 Sep 2013</date>
+    </thesis>
 
     <thesis>
       <author>Christian Sura</author>
@@ -72,54 +72,54 @@
 
 
   <lectures>
-      <lecture>
-        <title>Die Programmiersprache Python</title>
-        <institution>Universität Rostock</institution>
-        <detail>at the 5. Landesolympiade Informatik</detail>
-        <term>2013/2014</term>
-      </lecture>
+    <lecture>
+      <title>Die Programmiersprache Python</title>
+      <institution>Universität Rostock</institution>
+      <detail>at the 5. Landesolympiade Informatik</detail>
+      <term>2013/2014</term>
+    </lecture>
 
-      <lecture>
-        <title>Compilerbau</title>
-        <institution>Universität Rostock</institution>
-        <term>Fall 2013/2014</term>
-        <byProxy />
-      </lecture>
+    <lecture>
+      <title>Compilerbau</title>
+      <institution>Universität Rostock</institution>
+      <term>Fall 2013/2014</term>
+      <byProxy />
+    </lecture>
 
-      <lecture>
-        <title>Die Programmiersprache Python</title>
-        <institution>Universität Rostock</institution>
-        <detail>at the 4. Landesolympiade Informatik</detail>
-        <term>2012/2013</term>
-      </lecture>
+    <lecture>
+      <title>Die Programmiersprache Python</title>
+      <institution>Universität Rostock</institution>
+      <detail>at the 4. Landesolympiade Informatik</detail>
+      <term>2012/2013</term>
+    </lecture>
 
-      <lecture>
-        <title>Compilerbau</title>
-        <institution>Universität Rostock</institution>
-        <term>Fall 2012/2013</term>
-        <byProxy />
-      </lecture>
+    <lecture>
+      <title>Compilerbau</title>
+      <institution>Universität Rostock</institution>
+      <term>Fall 2012/2013</term>
+      <byProxy />
+    </lecture>
 
-      <lecture>
-        <title>Die Programmiersprache Python</title>
-        <institution>Universität Rostock</institution>
-        <detail>at the 4. Landesolympiade Informatik</detail>
-        <term>2011/2012</term>
-      </lecture>
+    <lecture>
+      <title>Die Programmiersprache Python</title>
+      <institution>Universität Rostock</institution>
+      <detail>at the 4. Landesolympiade Informatik</detail>
+      <term>2011/2012</term>
+    </lecture>
 
-      <lecture>
-        <title>Logik</title>
-        <institution>Universität Rostock</institution>
-        <term>Summer 2011</term>
-        <byProxy />
-      </lecture>
+    <lecture>
+      <title>Logik</title>
+      <institution>Universität Rostock</institution>
+      <term>Summer 2011</term>
+      <byProxy />
+    </lecture>
 
-      <lecture>
-        <title>Semantik von Programmiersprachen</title>
-        <institution>Universität Rostock</institution>
-        <term>Summer 2011</term>
-        <byProxy />
-      </lecture>
+    <lecture>
+      <title>Semantik von Programmiersprachen</title>
+      <institution>Universität Rostock</institution>
+      <term>Summer 2011</term>
+      <byProxy />
+    </lecture>
 
     <lecture>
       <title>Die Programmiersprache Python</title>
@@ -144,44 +144,44 @@
   </lectures>
 
   <exercises>
-      <exercise>
-        <title>Computergestützte Verifikation</title>
-        <institution>Universität Rostock</institution>
-        <term>Fall 2013/2014</term>
-      </exercise>
+    <exercise>
+      <title>Computergestützte Verifikation</title>
+      <institution>Universität Rostock</institution>
+      <term>Fall 2013/2014</term>
+    </exercise>
 
-      <exercise>
-        <title>Compilerbau</title>
-        <institution>Universität Rostock</institution>
-        <term>Fall 2013/2014</term>
-      </exercise>
+    <exercise>
+      <title>Compilerbau</title>
+      <institution>Universität Rostock</institution>
+      <term>Fall 2013/2014</term>
+    </exercise>
 
-      <exercise>
-        <title>Formale Systeme</title>
-        <institution>Universität Rostock</institution>
-        <term>Summer 2013</term>
-      </exercise>
+    <exercise>
+      <title>Formale Systeme</title>
+      <institution>Universität Rostock</institution>
+      <term>Summer 2013</term>
+    </exercise>
 
-      <exercise>
-        <title>Compilerbau</title>
-        <institution>Universität Rostock</institution>
-        <term>Fall 2012/2013</term>
-      </exercise>
+    <exercise>
+      <title>Compilerbau</title>
+      <institution>Universität Rostock</institution>
+      <term>Fall 2012/2013</term>
+    </exercise>
 
-      <exercise>
-        <title>Formale Systeme</title>
-        <institution>Universität Rostock</institution>
-        <term>Summer 2012</term>
-        <page>fsys_2012</page>
-      </exercise>
+    <exercise>
+      <title>Formale Systeme</title>
+      <institution>Universität Rostock</institution>
+      <term>Summer 2012</term>
+      <page>fsys_2012</page>
+    </exercise>
 
-      <exercise>
-        <title>Formale Sprachen</title>
-        <institution>Universität Rostock</institution>
-        <page>fs_2011</page>
-        <term>Fall 2011/2012</term>
-        <evaluation>logik-fs-ws2011.pdf</evaluation>
-      </exercise>
+    <exercise>
+      <title>Formale Sprachen</title>
+      <institution>Universität Rostock</institution>
+      <page>fs_2011</page>
+      <term>Fall 2011/2012</term>
+      <evaluation>logik-fs-ws2011.pdf</evaluation>
+    </exercise>
 
     <exercise>
       <title>Berechenbarkeit und Komplexität</title>
@@ -201,17 +201,17 @@
   </exercises>
 
   <seminars>
-      <seminar>
-        <title>Beauty is our business</title>
-        <institution>Universität Rostock</institution>
-        <term>Summer 2013</term>
-      </seminar>
+    <seminar>
+      <title>Beauty is our business</title>
+      <institution>Universität Rostock</institution>
+      <term>Summer 2013</term>
+    </seminar>
 
-      <seminar>
-        <title>Komplexe Softwaresysteme: Verteilung von Algorithmen zur Zustandsraumverifikation</title>
-        <institution>Universität Rostock</institution>
-        <term>Summer 2013</term>
-      </seminar>
+    <seminar>
+      <title>Komplexe Softwaresysteme: Verteilung von Algorithmen zur Zustandsraumverifikation</title>
+      <institution>Universität Rostock</institution>
+      <term>Summer 2013</term>
+    </seminar>
 
     <seminar>
       <title>Beauty is our business</title>

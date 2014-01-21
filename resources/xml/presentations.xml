@@ -2,14 +2,14 @@
 <presentations>
 
   <invited>
-      <talk id="potsdam2013">
-        <title>Pragmatic Model Checking: From Theory to Implementations</title>
-        <detail>invited lecture at the Business Process Compliance course at the Hasso-Plattner-Institute</detail>
-    <!--    <slideshare>http://www.slideshare.net/correctsystems/state-space-reduction-techniques-to-verify-business-processes</slideshare> -->
-        <vimeo>http://www.tele-task.de/de/archive/lecture/overview/7444/</vimeo>
-        <venue>Potsdam, Germany</venue>
-        <date>03 Dec 2013</date>
-      </talk>
+    <talk id="potsdam2013">
+      <title>Pragmatic Model Checking: From Theory to Implementations</title>
+      <detail>invited lecture at the Business Process Compliance course at the Hasso-Plattner-Institute</detail>
+      <!--    <slideshare>http://www.slideshare.net/correctsystems/state-space-reduction-techniques-to-verify-business-processes</slideshare> -->
+      <vimeo>http://www.tele-task.de/de/archive/lecture/overview/7444/</vimeo>
+      <venue>Potsdam, Germany</venue>
+      <date>03 Dec 2013</date>
+    </talk>
 
     <talk id="petrinets2011">
       <title>Verification with LoLA</title>
@@ -22,7 +22,7 @@
     <talk id="teheran2011">
       <title>Correcting Deadlocking Service Choreographies</title>
       <detail>invited lecture at the School of Electrical and Computer Engineering at the College of Engineering of the University of Teheran</detail>
-<!--      <slideshare>http://www.slideshare.net/correctsystems/state-space-reduction-techniques-to-verify-business-processes</slideshare> -->
+      <!--      <slideshare>http://www.slideshare.net/correctsystems/state-space-reduction-techniques-to-verify-business-processes</slideshare> -->
       <venue>Teheran, Iran</venue>
       <date>07 Mar 2011</date>
     </talk>
@@ -149,25 +149,25 @@
 
 
   <workshops>
-      <talk id="wesoa2011">
-        <title>Artifact-centric modeling using BPMN</title>
-        <conference>6th International Workshop on Engineering Service-Oriented Applications</conference>
-        <abbreviation>WESOA'11</abbreviation>
-        <url>http://www.zirpins.de/WESOA11/Overview.html</url>
-        <slideshare>http://www.slideshare.net/correctsystems/artifactcentric-modeling-using-bpmn</slideshare>
-        <venue>Paphos, Cyprus</venue>
-        <date>05 Dec 2011</date>
-      </talk>
+    <talk id="wesoa2011">
+      <title>Artifact-centric modeling using BPMN</title>
+      <conference>6th International Workshop on Engineering Service-Oriented Applications</conference>
+      <abbreviation>WESOA'11</abbreviation>
+      <url>http://www.zirpins.de/WESOA11/Overview.html</url>
+      <slideshare>http://www.slideshare.net/correctsystems/artifactcentric-modeling-using-bpmn</slideshare>
+      <venue>Paphos, Cyprus</venue>
+      <date>05 Dec 2011</date>
+    </talk>
 
-      <talk id="zeus2011">
-        <title>Internal Behavior Reduction for Partner Synthesis</title>
-        <conference>Third Central-European Workshop on Services and their Composition</conference>
-        <abbreviation>ZEUS 2011</abbreviation>
-        <url>http://zeus2011.aifb.kit.edu/</url>
-        <slideshare>http://www.slideshare.net/correctsystems/internal-behavior-reduction-for-services</slideshare>
-        <venue>Karlsruhe, Germany</venue>
-        <date>22 Feb 2011</date>
-      </talk>
+    <talk id="zeus2011">
+      <title>Internal Behavior Reduction for Partner Synthesis</title>
+      <conference>Third Central-European Workshop on Services and their Composition</conference>
+      <abbreviation>ZEUS 2011</abbreviation>
+      <url>http://zeus2011.aifb.kit.edu/</url>
+      <slideshare>http://www.slideshare.net/correctsystems/internal-behavior-reduction-for-services</slideshare>
+      <venue>Karlsruhe, Germany</venue>
+      <date>22 Feb 2011</date>
+    </talk>
 
     <talk id="awpn2010">
       <title>The Petri Net API - A collection of Petri net-related functions</title>
@@ -435,17 +435,17 @@
     <talk id="diplomarbeit">
       <title>Formale Fundierung und effizientere Implementierung der schrittbasierten TLDA-Interleavingsemantik</title>
       <detail>Talk given at the diploma defense ceremony at Humboldt-Universität zu Berlin</detail>
- <slideshare>http://www.slideshare.net/correctsystems/formale-fundierung-und-effizientere-implementierung-der-schrittbasierten-tldainterleavingsemantik</slideshare>
+      <slideshare>http://www.slideshare.net/correctsystems/formale-fundierung-und-effizientere-implementierung-der-schrittbasierten-tldainterleavingsemantik</slideshare>
       <venue>Berlin, Germany</venue>
       <date>23 Sep 2005</date>
     </talk>
 
-   <talk id="studienarbeit">
-     <title>Implementation of an Interleaving Semantics for TLDA</title>
-     <detail>Overview talk for the Studienarbeit thesis at Humboldt-Universität zu Berlin</detail>
-<slideshare>http://www.slideshare.net/correctsystems/implementation-of-an-interleaving-semantics-for-tlda</slideshare>
-     <venue>Berlin, Germany</venue>
-     <date>07 May 2005</date>
-   </talk>
+    <talk id="studienarbeit">
+      <title>Implementation of an Interleaving Semantics for TLDA</title>
+      <detail>Overview talk for the Studienarbeit thesis at Humboldt-Universität zu Berlin</detail>
+      <slideshare>http://www.slideshare.net/correctsystems/implementation-of-an-interleaving-semantics-for-tlda</slideshare>
+      <venue>Berlin, Germany</venue>
+      <date>07 May 2005</date>
+    </talk>
   </miscellaneous>
 </presentations>

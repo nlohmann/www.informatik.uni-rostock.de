@@ -1,182 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <newsentries>
   <entries>
-      
-      <news type="free">
-        <begin>21 Jan 2014</begin>
-        <text>I implemented a complete self-archiving policy and made &lt;em&gt;all&lt;/em&gt; &lt;a href=&quot;publications.html&quot;&gt;my publications&lt;/a&gt; available for download.</text>
-      </news>
+    <news type="free">
+      <begin>21 Jan 2014</begin>
+      <text>I implemented a complete self-archiving policy and made &lt;em&gt;all&lt;/em&gt; &lt;a href=&quot;publications.html&quot;&gt;my publications&lt;/a&gt; available for download.</text>
+    </news>
 
-      <news type="venue">
-        <begin>20 Feb 2014</begin>
-        <end>21 Feb 2014</end>
-        <text>Sixth Central-European Workshop on Services and their Composition</text>
-        <abbreviation>ZEUS 2014</abbreviation>
-        <venue>Potsdam, Germany</venue>
-        <url>http://zeus2014.org/ZEUS/</url>
-      </news>
+    <news type="venue">
+      <begin>20 Feb 2014</begin>
+      <end>21 Feb 2014</end>
+      <text>Sixth Central-European Workshop on Services and their Composition</text>
+      <abbreviation>ZEUS 2014</abbreviation>
+      <venue>Potsdam, Germany</venue>
+      <url>http://zeus2014.org/ZEUS/</url>
+    </news>
 
-      <news type="paper_accepted">
-        <begin>13 Nov 2013</begin>
-        <paper>AccorsiLL_2014_is</paper>
-      </news>
+    <news type="paper_accepted">
+      <begin>13 Nov 2013</begin>
+      <paper>AccorsiLL_2014_is</paper>
+    </news>
 
-      <news type="paper_accepted">
-        <begin>08 Mar 2012</begin>
-        <paper>Lohmann_2012_is</paper>
-      </news>
+    <news type="paper_accepted">
+      <begin>08 Mar 2012</begin>
+      <paper>Lohmann_2012_is</paper>
+    </news>
 
-      <news type="paper_accepted">
-        <begin>01 Mar 2012</begin>
-        <paper>LehmannLW_2012_petrinets</paper>
-      </news>
+    <news type="paper_accepted">
+      <begin>01 Mar 2012</begin>
+      <paper>LehmannLW_2012_petrinets</paper>
+    </news>
 
-      <news type="paper_accepted">
-        <begin>07 Feb 2012</begin>
-        <paper>LehmannL_2012_zeus</paper>
-      </news>
-            <news type="venue">
-              <begin>25 Jun 2012</begin>
-              <end>29 Jun 2012</end>
-              <text>33rd International Conference on Application and Theory of Petri Nets and Concurrency</text>
-              <abbreviation>PETRI NETS 2012</abbreviation>
-              <venue>Hamburg, Germany</venue>
-              <url>http://www.informatik.uni-hamburg.de/TGI/events/pn2012/</url>
-            </news>
+    <news type="paper_accepted">
+      <begin>07 Feb 2012</begin>
+      <paper>LehmannL_2012_zeus</paper>
+    </news>
+    <news type="venue">
+      <begin>25 Jun 2012</begin>
+      <end>29 Jun 2012</end>
+      <text>33rd International Conference on Application and Theory of Petri Nets and Concurrency</text>
+      <abbreviation>PETRI NETS 2012</abbreviation>
+      <venue>Hamburg, Germany</venue>
+      <url>http://www.informatik.uni-hamburg.de/TGI/events/pn2012/</url>
+    </news>
 
-            <news type="venue">
-              <begin>06 Sep 2012</begin>
-              <end>07 Sep 2012</end>
-              <text>9th International Workshop on Web Services and Formal Methods</text>
-              <abbreviation>WS-FM 2012</abbreviation>
-              <venue>Tallinn, Estonia</venue>
-              <url>http://www.informatik.uni-rostock.de/ws-fm2012</url>
+    <news type="venue">
+      <begin>06 Sep 2012</begin>
+      <end>07 Sep 2012</end>
+      <text>9th International Workshop on Web Services and Formal Methods</text>
+      <abbreviation>WS-FM 2012</abbreviation>
+      <venue>Tallinn, Estonia</venue>
+      <url>http://www.informatik.uni-rostock.de/ws-fm2012</url>
       <!--        <talkid>icsoc2011</talkid> -->
-            </news>
+    </news>
 
-      <news type="venue">
-        <begin>03 Sep 2012</begin>
-        <end>06 Sep 2012</end>
-        <text>10th International Conference on Business Process Modeling</text>
-        <abbreviation>BPM 2012</abbreviation>
-        <venue>Tallinn, Estonia</venue>
-        <url>http://bpm2012.ut.ee/</url>
-<!--        <talkid>icsoc2011</talkid> -->
-      </news>
+    <news type="venue">
+      <begin>03 Sep 2012</begin>
+      <end>06 Sep 2012</end>
+      <text>10th International Conference on Business Process Modeling</text>
+      <abbreviation>BPM 2012</abbreviation>
+      <venue>Tallinn, Estonia</venue>
+      <url>http://bpm2012.ut.ee/</url>
+      <!--        <talkid>icsoc2011</talkid> -->
+    </news>
 
-      <news type="venue">
-        <begin>05 Dec 2011</begin>
-        <end>05 Dec 2011</end>
-        <text>6th International Workshop on Engineering Service-Oriented Applications</text>
-        <abbreviation>WESOA 11</abbreviation>
-        <venue>Paphos Cyprus</venue>
-        <url>http://www.zirpins.de/WESOA11/Overview.html</url>
-        <talkid>wesoa2011</talkid>
-      </news>
+    <news type="venue">
+      <begin>05 Dec 2011</begin>
+      <end>05 Dec 2011</end>
+      <text>6th International Workshop on Engineering Service-Oriented Applications</text>
+      <abbreviation>WESOA 11</abbreviation>
+      <venue>Paphos Cyprus</venue>
+      <url>http://www.zirpins.de/WESOA11/Overview.html</url>
+      <talkid>wesoa2011</talkid>
+    </news>
 
-      <news type="paper_accepted">
-        <begin>01 Nov 2011</begin>
-        <paper>LohmannN_2011_wesoa</paper>
-      </news>
+    <news type="paper_accepted">
+      <begin>01 Nov 2011</begin>
+      <paper>LohmannN_2011_wesoa</paper>
+    </news>
 
-      <news type="paper_accepted">
-        <begin>21 Sep 2011</begin>
-        <paper>LohmannW_2011_fi2</paper>
-      </news>
+    <news type="paper_accepted">
+      <begin>21 Sep 2011</begin>
+      <paper>LohmannW_2011_fi2</paper>
+    </news>
 
-      <news type="paper_accepted">
-        <begin>12 Sep 2011</begin>
-        <paper>LohmannW_2011_awpn</paper>
-      </news>
+    <news type="paper_accepted">
+      <begin>12 Sep 2011</begin>
+      <paper>LohmannW_2011_awpn</paper>
+    </news>
 
-      <news type="venue">
-        <begin>23 Feb 2012</begin>
-        <end>24 Feb 2012</end>
-        <text>Forth Central-European Workshop on Services and their Composition</text>
-        <abbreviation>ZEUS 2012</abbreviation>
-        <venue>Bamberg, Germany</venue>
-        <url>http://zeus-workshop.eu/2012</url>
-      </news>
+    <news type="venue">
+      <begin>23 Feb 2012</begin>
+      <end>24 Feb 2012</end>
+      <text>Forth Central-European Workshop on Services and their Composition</text>
+      <abbreviation>ZEUS 2012</abbreviation>
+      <venue>Bamberg, Germany</venue>
+      <url>http://zeus-workshop.eu/2012</url>
+    </news>
 
-      <news type="venue">
-        <begin>01 Aug 2011</begin>
-        <end>02 Sep 2011</end>
-        <text>8th International Workshop on Web Services and Formal Methods</text>
-        <abbreviation>WS-FM 2011</abbreviation>
-        <venue>Clermont-Ferrand, France</venue>
-        <url>http://www.itu.dk/wsfm2011/</url>
-      </news>
+    <news type="venue">
+      <begin>01 Aug 2011</begin>
+      <end>02 Sep 2011</end>
+      <text>8th International Workshop on Web Services and Formal Methods</text>
+      <abbreviation>WS-FM 2011</abbreviation>
+      <venue>Clermont-Ferrand, France</venue>
+      <url>http://www.itu.dk/wsfm2011/</url>
+    </news>
 
-      <news type="free">
-        <begin>31 Aug 2011</begin>
-        <text>I received the Best Reviewer Award at the BPM 2011 conference.</text>
-      </news>
+    <news type="free">
+      <begin>31 Aug 2011</begin>
+      <text>I received the Best Reviewer Award at the BPM 2011 conference.</text>
+    </news>
 
-      <news type="paper_accepted">
-        <begin>29 Aug 2011</begin>
-        <paper>AalstLL_2011_is</paper>
-      </news>
+    <news type="paper_accepted">
+      <begin>29 Aug 2011</begin>
+      <paper>AalstLL_2011_is</paper>
+    </news>
 
-      <news type="venue">
-        <begin>06 Dec 2011</begin>
-        <end>08 Dec 2011</end>
-        <text>Ninth International Conference on Service Oriented Computing</text>
-        <abbreviation>ICSOC 2011</abbreviation>
-        <venue>Paphos, Cyprus</venue>
-        <url>http://www.icsoc2011.cs.ucy.ac.cy</url>
-        <talkid>icsoc2011</talkid>
-      </news>
+    <news type="venue">
+      <begin>06 Dec 2011</begin>
+      <end>08 Dec 2011</end>
+      <text>Ninth International Conference on Service Oriented Computing</text>
+      <abbreviation>ICSOC 2011</abbreviation>
+      <venue>Paphos, Cyprus</venue>
+      <url>http://www.icsoc2011.cs.ucy.ac.cy</url>
+      <talkid>icsoc2011</talkid>
+    </news>
 
-      <news type="paper_accepted">
-        <begin>06 Aug 2011</begin>
-        <paper>LohmannW_2011_icsoc</paper>
-      </news>
+    <news type="paper_accepted">
+      <begin>06 Aug 2011</begin>
+      <paper>LohmannW_2011_icsoc</paper>
+    </news>
 
-      <news type="free">
-        <begin>13 Jul 2011</begin>
-        <text>The exercises for the lecture “Berechenbarkeit und Komplexität” were evaluated.</text>
-        <url>files/buk-ue-ss2011.pdf</url>
-      </news>
+    <news type="free">
+      <begin>13 Jul 2011</begin>
+      <text>The exercises for the lecture “Berechenbarkeit und Komplexität” were evaluated.</text>
+      <url>files/buk-ue-ss2011.pdf</url>
+    </news>
 
-<!--
+    <!--
       <news type="lecture">
-        <begin>01 Sep 2011</begin>
-        <title>Compliance by design for artifact-centric business processes</title>
-        <text>9th International Conference on Business Process Management (BPM 2011)</text>
-        <venue>Clermont-Ferrand, France</venue>
-        <url>http://bpm2011.isima.fr/</url>
-        <talkid>bpm2011</talkid>
-      </news> -->
-
-      <news type="venue">
-        <begin>28 Aug 2011</begin>
-        <end>02 Sep 2011</end>
-        <text>9th International Conference on Business Process Management</text>
-        <abbreviation>BPM 2011</abbreviation>
-        <venue>Clermont-Ferrand, France</venue>
-        <url>http://bpm2011.isima.fr/</url>
-        <talkid>bpm2011</talkid>
+      <begin>01 Sep 2011</begin>
+      <title>Compliance by design for artifact-centric business processes</title>
+      <text>9th International Conference on Business Process Management (BPM 2011)</text>
+      <venue>Clermont-Ferrand, France</venue>
+      <url>http://bpm2011.isima.fr/</url>
+      <talkid>bpm2011</talkid>
       </news>
+    -->
 
-      <news type="paper_accepted">
-        <begin>12 May 2011</begin>
-        <paper>Lohmann_2011_bpm</paper>
-      </news>
+    <news type="venue">
+      <begin>28 Aug 2011</begin>
+      <end>02 Sep 2011</end>
+      <text>9th International Conference on Business Process Management</text>
+      <abbreviation>BPM 2011</abbreviation>
+      <venue>Clermont-Ferrand, France</venue>
+      <url>http://bpm2011.isima.fr/</url>
+      <talkid>bpm2011</talkid>
+    </news>
 
-     <news type="venue">
-       <begin>18 Mar 2011</begin>
-       <end>18 Mar 2011</end>
-       <text>finals of the Landesolympiade Informatik</text>
-       <venue>Güstrow, Germany</venue>
-       <url>http://www.bilse.de/projekte/landesolympiade-informatik/</url>
-     </news>
+    <news type="paper_accepted">
+      <begin>12 May 2011</begin>
+      <paper>Lohmann_2011_bpm</paper>
+    </news>
 
-     <news type="venue">
-       <begin>04 Mar 2011</begin>
-       <end>11 Mar 2011</end>
-       <text>research visit to the Teheran University (part of the German Computer Engineering Program for Iranian Students)</text>
-       <venue>Teheran, Iran</venue>
-       <url>http://ie-rostock.de/index.php?option=com_content&amp;view=article&amp;id=2&amp;Itemid=3</url>
+    <news type="venue">
+      <begin>18 Mar 2011</begin>
+      <end>18 Mar 2011</end>
+      <text>finals of the Landesolympiade Informatik</text>
+      <venue>Güstrow, Germany</venue>
+      <url>http://www.bilse.de/projekte/landesolympiade-informatik/</url>
+    </news>
+
+    <news type="venue">
+      <begin>04 Mar 2011</begin>
+      <end>11 Mar 2011</end>
+      <text>research visit to the Teheran University (part of the German Computer Engineering Program for Iranian Students)</text>
+      <venue>Teheran, Iran</venue>
+      <url>http://ie-rostock.de/index.php?option=com_content&amp;view=article&amp;id=2&amp;Itemid=3</url>
     </news>
 
     <news type="lecture">
@@ -203,7 +203,7 @@
       <venue>Newcastle upon Tyne, UK</venue>
       <url>http://www.jaist.ac.jp/acsd-petrinets2011/</url>
     </news>
-    
+  
     <news type="paper_accepted">
       <begin>06 Feb 2011</begin>
       <paper>Lohmann_2011_zeus</paper>
@@ -229,12 +229,12 @@
       <url>files/logik-ue-ws2010.pdf</url>
     </news>
 
-<!--
-    <news type="paper_accepted">
+    <!--
+      <news type="paper_accepted">
       <begin>10 Jan 2011</begin>
       <paper>LohmannW_2010_atpn</paper>
-    </news>
--->
+      </news>
+    -->
 
     <news type="lecture">
       <begin>22 Jan 2011</begin>

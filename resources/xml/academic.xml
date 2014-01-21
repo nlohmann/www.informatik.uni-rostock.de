@@ -2,24 +2,24 @@
 <scientific>
 
   <organization>
-      <workshop>
-        <title>Services and their Composition</title>
-        <kind>Fifth Central-European Workshop</kind>
-        <abbreviation>ZEUS 2013</abbreviation>
-        <url>http://zeus-workshop.eu/2013/website/</url>
-        <venue>Rostock, Germany</venue>
-        <begin>21 Feb 2013</begin>
-        <end>22 Feb 2013</end>
-      </workshop>
+    <workshop>
+      <title>Services and their Composition</title>
+      <kind>Fifth Central-European Workshop</kind>
+      <abbreviation>ZEUS 2013</abbreviation>
+      <url>http://zeus-workshop.eu/2013/website/</url>
+      <venue>Rostock, Germany</venue>
+      <begin>21 Feb 2013</begin>
+      <end>22 Feb 2013</end>
+    </workshop>
 
-      <workshop>
-        <title>BPM 2012 Demonstration Track</title>
-        <kind>Co-located event to the BPM 2012</kind>
-        <url>http://bpm2012.ut.ee/cfp_demos/</url>
-        <venue>Tallinn, Estonia</venue>
-        <begin>04 Sep 2012</begin>
-        <end>04 Sep 2012</end>
-      </workshop>
+    <workshop>
+      <title>BPM 2012 Demonstration Track</title>
+      <kind>Co-located event to the BPM 2012</kind>
+      <url>http://bpm2012.ut.ee/cfp_demos/</url>
+      <venue>Tallinn, Estonia</venue>
+      <begin>04 Sep 2012</begin>
+      <end>04 Sep 2012</end>
+    </workshop>
 
     <workshop>
       <title>Services and their Composition</title>
@@ -44,44 +44,44 @@
 
 
   <memberships>
-      <pc>
-        <title>Event Modeling and Processing in Business Process Management</title>
-        <kind>1st Workshop</kind>
-        <abbreviation>EMoV 2014</abbreviation>
-        <url>http://www.emov-workshop.org/EMOV/</url>
-        <cfp>http://www.emov-workshop.org/EMOV/EMOVCfP</cfp>
-        <colocation>Modellierung 2014</colocation>
-        <courl>http://www.modellierung2014.org/home.html</courl>
-        <venue>Vienna, Austria</venue>
-        <date>31 Oct 2013</date>
-        <begin>19 Mar 2014</begin>
-        <end>21 Mar 2014</end>
-      </pc>
+    <pc>
+      <title>Event Modeling and Processing in Business Process Management</title>
+      <kind>1st Workshop</kind>
+      <abbreviation>EMoV 2014</abbreviation>
+      <url>http://www.emov-workshop.org/EMOV/</url>
+      <cfp>http://www.emov-workshop.org/EMOV/EMOVCfP</cfp>
+      <colocation>Modellierung 2014</colocation>
+      <courl>http://www.modellierung2014.org/home.html</courl>
+      <venue>Vienna, Austria</venue>
+      <date>31 Oct 2013</date>
+      <begin>19 Mar 2014</begin>
+      <end>21 Mar 2014</end>
+    </pc>
 
-      <pc>
-        <title>Services and their Composition</title>
-        <kind>Fifth Central-European Workshop</kind>
-        <abbreviation>ZEUS 2013</abbreviation>
-        <url>http://zeus-workshop.eu/2013/website/</url>
-        <cfp>http://zeus-workshop.eu/2013/website/cfp.html</cfp>
-        <venue>Rostock, Germany</venue>
-        <date>26 Nov 2011</date>
-        <begin>21 Feb 2013</begin>
-        <end>22 Feb 2013</end>
-        <role>co-chair</role>
-      </pc>
+    <pc>
+      <title>Services and their Composition</title>
+      <kind>Fifth Central-European Workshop</kind>
+      <abbreviation>ZEUS 2013</abbreviation>
+      <url>http://zeus-workshop.eu/2013/website/</url>
+      <cfp>http://zeus-workshop.eu/2013/website/cfp.html</cfp>
+      <venue>Rostock, Germany</venue>
+      <date>26 Nov 2011</date>
+      <begin>21 Feb 2013</begin>
+      <end>22 Feb 2013</end>
+      <role>co-chair</role>
+    </pc>
 
-      <pc>
-        <title>Business Process Management</title>
-        <kind>12th International Conference</kind>
-        <abbreviation>BPM 2014</abbreviation>
-        <url>http://bpm2014.haifa.ac.il</url>
-        <cfp>http://bpm2014.haifa.ac.il/calls-for-contributions/call-for-papers</cfp>
-        <venue>Haifa, Israel</venue>
-        <date>13 Sep 2013</date>
-        <begin>07 Sep 2014</begin>
-        <end>11 Sep 2014</end>
-      </pc>
+    <pc>
+      <title>Business Process Management</title>
+      <kind>12th International Conference</kind>
+      <abbreviation>BPM 2014</abbreviation>
+      <url>http://bpm2014.haifa.ac.il</url>
+      <cfp>http://bpm2014.haifa.ac.il/calls-for-contributions/call-for-papers</cfp>
+      <venue>Haifa, Israel</venue>
+      <date>13 Sep 2013</date>
+      <begin>07 Sep 2014</begin>
+      <end>11 Sep 2014</end>
+    </pc>
 
     <pc>
       <title>Security Aspects of Process and Services Engineering</title>
@@ -109,205 +109,205 @@
       <end>27 Jun 2014</end>
     </pc>
 
-      <pc>
-        <title>Model Checking Contest</title>
-        <kind>Contest</kind>
-        <abbreviation>MCC 2013</abbreviation>
-        <url>http://mcc.lip6.fr/</url>
-        <colocation>PETRI NETS 2013</colocation>
-        <courl>http://www.mc3.disco.unimib.it/petrinets2013/</courl>
-        <venue>Milan, Italy</venue>
-        <date>09 Sep 2012</date>
-        <begin>27 Jun 2013</begin>
-        <end>27 Jun 2013</end>
-        <role>contest committee</role>
-      </pc>
+    <pc>
+      <title>Model Checking Contest</title>
+      <kind>Contest</kind>
+      <abbreviation>MCC 2013</abbreviation>
+      <url>http://mcc.lip6.fr/</url>
+      <colocation>PETRI NETS 2013</colocation>
+      <courl>http://www.mc3.disco.unimib.it/petrinets2013/</courl>
+      <venue>Milan, Italy</venue>
+      <date>09 Sep 2012</date>
+      <begin>27 Jun 2013</begin>
+      <end>27 Jun 2013</end>
+      <role>contest committee</role>
+    </pc>
 
-        <pc>
-          <title>Information Systems and Technologies</title>
-          <kind>2013 World Conference</kind>
-          <abbreviation>WorldCIST 13</abbreviation>
-          <url>http://www.aisti.eu/worldcist13/</url>
-          <cfp>http://www.aisti.eu/worldcist13/index.php/cfp/</cfp>
-          <venue>Algarve, Portugal</venue>
-          <date>13 Jul 2012</date>
-          <begin>27 Mar 2013</begin>
-          <end>30 Mar 2013</end>
-        </pc>
+    <pc>
+      <title>Information Systems and Technologies</title>
+      <kind>2013 World Conference</kind>
+      <abbreviation>WorldCIST 13</abbreviation>
+      <url>http://www.aisti.eu/worldcist13/</url>
+      <cfp>http://www.aisti.eu/worldcist13/index.php/cfp/</cfp>
+      <venue>Algarve, Portugal</venue>
+      <date>13 Jul 2012</date>
+      <begin>27 Mar 2013</begin>
+      <end>30 Mar 2013</end>
+    </pc>
 
-      <pc>
-        <title>Theory of Modeling and Simulation</title>
-        <kind>Symposium</kind>
-        <abbreviation>TMS/DEVS 2012</abbreviation>
-        <url>http://www.sce.carleton.ca/faculty/wainer/DEVS13/doku.php</url>
-        <cfp>http://www.sce.carleton.ca/faculty/wainer/DEVS13/doku.php?id=call_for_papers</cfp>
-        <colocation>Springsim 2013</colocation>
-        <courl>http://www.scs.org/springsim/2013</courl>
-        <venue>San Diego, CA, USA</venue>
-        <date>10 Jul 2012</date>
-        <begin>07 Apr 2013</begin>
-        <end>10 Apr 2013</end>
-      </pc>
-
-
-      <pc>
-        <title>BPM 2013 Workshops</title>
-<!--        <url>http://bpm2012.ut.ee/cfp_demos/</url>
-        <cfp>http://bpm2012.ut.ee/cfp_demos/</cfp> -->
-        <colocation>BPM 2013</colocation>
-        <courl>http://bpm2013.tsinghua.edu.cn/</courl>
-        <venue>Beijing, China</venue>
-        <date>03 Jul 2012</date>
-        <begin>26 Aug 2013</begin>
-        <end>26 Aug 2013</end>
-        <role>workshop co-chair</role>
-      </pc>
+    <pc>
+      <title>Theory of Modeling and Simulation</title>
+      <kind>Symposium</kind>
+      <abbreviation>TMS/DEVS 2012</abbreviation>
+      <url>http://www.sce.carleton.ca/faculty/wainer/DEVS13/doku.php</url>
+      <cfp>http://www.sce.carleton.ca/faculty/wainer/DEVS13/doku.php?id=call_for_papers</cfp>
+      <colocation>Springsim 2013</colocation>
+      <courl>http://www.scs.org/springsim/2013</courl>
+      <venue>San Diego, CA, USA</venue>
+      <date>10 Jul 2012</date>
+      <begin>07 Apr 2013</begin>
+      <end>10 Apr 2013</end>
+    </pc>
 
 
-      <pc>
-        <title>Business Process Management</title>
-        <kind>11th International Conference</kind>
-        <abbreviation>BPM 2013</abbreviation>
-        <url>http://bpm2013.tsinghua.edu.cn/</url>
-    <!--    <cfp>http://bpm2012.ut.ee/cfp/</cfp> -->
-        <venue>Beijing, China</venue>
-        <date>09 Jul 2012</date>
-        <begin>26 Aug 2013</begin>
-        <end>30 Aug 2013</end>
-      </pc>
+    <pc>
+      <title>BPM 2013 Workshops</title>
+      <!--        <url>http://bpm2012.ut.ee/cfp_demos/</url>
+      <cfp>http://bpm2012.ut.ee/cfp_demos/</cfp> -->
+      <colocation>BPM 2013</colocation>
+      <courl>http://bpm2013.tsinghua.edu.cn/</courl>
+      <venue>Beijing, China</venue>
+      <date>03 Jul 2012</date>
+      <begin>26 Aug 2013</begin>
+      <end>26 Aug 2013</end>
+      <role>workshop co-chair</role>
+    </pc>
 
-      <pc>
-        <title>Web Services Handbook</title>
-        <kind>book</kind>
-        <date>01 Jun 2012</date>
-        <begin>01 Jun 2012</begin>
-        <end>01 Jun 2012</end>
-      </pc>
 
-      <pc>
-        <title>Monitoring and Prediction of Cloud Services</title>
-        <kind>1st International Workshop</kind>
-        <abbreviation>MoPoC’12</abbreviation>
-<!--        <url>http://www.inf.unibz.it/sbp12/</url>
-        <cfp>http://www.inf.unibz.it/sbp12/</cfp> -->
-        <colocation>ICSOC 2012</colocation>
-        <courl>http://www.cs2.hofstra.edu/ICSOC12/index.shtml</courl> -->
-        <venue>Shanghai, China</venue>
-        <date>12 May 2012</date>
-        <begin>12 Nov 2012</begin>
-        <end>16 Nov 2012</end>
-      </pc>
+    <pc>
+      <title>Business Process Management</title>
+      <kind>11th International Conference</kind>
+      <abbreviation>BPM 2013</abbreviation>
+      <url>http://bpm2013.tsinghua.edu.cn/</url>
+      <!--    <cfp>http://bpm2012.ut.ee/cfp/</cfp> -->
+      <venue>Beijing, China</venue>
+      <date>09 Jul 2012</date>
+      <begin>26 Aug 2013</begin>
+      <end>30 Aug 2013</end>
+    </pc>
 
-      <pc>
-        <title>Application and Theory of Petri Nets and Concurrency</title>
-        <kind>34th International Conference</kind>
-        <abbreviation>PETRI NETS 2013</abbreviation>
-        <url>http://www.mc3.disco.unimib.it/petrinets2013/</url>
-        <cfp>http://www.mc3.disco.unimib.it/petrinets2013/petrinets2013cfp.pdf</cfp>
-        <venue>Milan, Italy</venue>
-        <date>12 May 2012</date>
-        <begin>26 Jun 2013</begin>
-        <end>28 Jun 2013</end>
-      </pc>
+    <pc>
+      <title>Web Services Handbook</title>
+      <kind>book</kind>
+      <date>01 Jun 2012</date>
+      <begin>01 Jun 2012</begin>
+      <end>01 Jun 2012</end>
+    </pc>
 
-      <pc>
-        <title>Service-oriented Architectures in the Healthcare Domain</title>
-        <kind>GI-GMDS interdisciplinary workshop</kind>
-        <abbreviation>SOAMED 2012</abbreviation>
-        <url>http://gi2012.soamed.de/</url>
-        <cfp>http://gi2012.soamed.de/</cfp>
-        <colocation>GMDS 2012 / Informatik 2012</colocation>
-        <courl>http://www.informatik2012.de/</courl>
-        <venue>Braunschweig, Germany</venue>
-        <date>16 Mar 2012</date>
-        <begin>20 Sep 2012</begin>
-        <end>20 Sep 2012</end>
-      </pc>
+    <pc>
+      <title>Monitoring and Prediction of Cloud Services</title>
+      <kind>1st International Workshop</kind>
+      <abbreviation>MoPoC’12</abbreviation>
+      <!--        <url>http://www.inf.unibz.it/sbp12/</url>
+      <cfp>http://www.inf.unibz.it/sbp12/</cfp> -->
+      <colocation>ICSOC 2012</colocation>
+      <courl>http://www.cs2.hofstra.edu/ICSOC12/index.shtml</courl> -->
+      <venue>Shanghai, China</venue>
+      <date>12 May 2012</date>
+      <begin>12 Nov 2012</begin>
+      <end>16 Nov 2012</end>
+    </pc>
 
-      <pc>
-        <title>Business Intelligence and Technology</title>
-        <kind>Second International Conference</kind>
-        <abbreviation>BUSTECH 2012</abbreviation>
-        <url>http://www.iaria.org/conferences2012/BUSTECH12.html</url>
-        <cfp>http://www.iaria.org/conferences2012/BUSTECH12.html</cfp>
-        <colocation>ComputationWorld 2012</colocation>
-        <courl>http://www.iaria.org/conferences2012/ComputationWorld12.html</courl>
-        <venue>Nice, France</venue>
-        <date>05 Mar 2012</date>
-        <begin>22 Jul 2012</begin>
-        <end>27 Jul 2012</end>
-      </pc>
+    <pc>
+      <title>Application and Theory of Petri Nets and Concurrency</title>
+      <kind>34th International Conference</kind>
+      <abbreviation>PETRI NETS 2013</abbreviation>
+      <url>http://www.mc3.disco.unimib.it/petrinets2013/</url>
+      <cfp>http://www.mc3.disco.unimib.it/petrinets2013/petrinets2013cfp.pdf</cfp>
+      <venue>Milan, Italy</venue>
+      <date>12 May 2012</date>
+      <begin>26 Jun 2013</begin>
+      <end>28 Jun 2013</end>
+    </pc>
 
-      <pc>
-        <title>Alignment Security in Business Process</title>
-        <kind>Joint International Workshop</kind>
-        <url>http://www.inf.unibz.it/sbp12/</url>
-        <cfp>http://www.inf.unibz.it/sbp12/</cfp>
-        <venue>Vienna, Austria</venue>
-        <date>24 Feb 2012</date>
-        <begin>03 Sep 2012</begin>
-        <end>04 Sep 2012</end>
-      </pc>
+    <pc>
+      <title>Service-oriented Architectures in the Healthcare Domain</title>
+      <kind>GI-GMDS interdisciplinary workshop</kind>
+      <abbreviation>SOAMED 2012</abbreviation>
+      <url>http://gi2012.soamed.de/</url>
+      <cfp>http://gi2012.soamed.de/</cfp>
+      <colocation>GMDS 2012 / Informatik 2012</colocation>
+      <courl>http://www.informatik2012.de/</courl>
+      <venue>Braunschweig, Germany</venue>
+      <date>16 Mar 2012</date>
+      <begin>20 Sep 2012</begin>
+      <end>20 Sep 2012</end>
+    </pc>
 
-      <pc>
-        <title>BPMN 2012</title>
-        <kind>4th International Workshop</kind>
-        <url>http://emisa2012.univie.ac.at/index.php?t=bpmn</url>
-        <cfp>http://emisa2012.univie.ac.at/index.php?t=bpmn</cfp>
-        <venue>Vienna, Austria</venue>
-        <date>17 Jan 2012</date>
-        <begin>12 Sep 2012</begin>
-        <end>13 Sep 2012</end>
-      </pc>
+    <pc>
+      <title>Business Intelligence and Technology</title>
+      <kind>Second International Conference</kind>
+      <abbreviation>BUSTECH 2012</abbreviation>
+      <url>http://www.iaria.org/conferences2012/BUSTECH12.html</url>
+      <cfp>http://www.iaria.org/conferences2012/BUSTECH12.html</cfp>
+      <colocation>ComputationWorld 2012</colocation>
+      <courl>http://www.iaria.org/conferences2012/ComputationWorld12.html</courl>
+      <venue>Nice, France</venue>
+      <date>05 Mar 2012</date>
+      <begin>22 Jul 2012</begin>
+      <end>27 Jul 2012</end>
+    </pc>
 
-      <pc>
-        <title>Security Aspects of Process and Services Engineering</title>
-        <kind>4th IEEE International Workshop</kind>
-        <abbreviation>SAPSE 2012</abbreviation>
-        <url>http://compsac.cs.iastate.edu/workshop_details.php?id=48=</url>
-        <cfp>http://compsac.cs.iastate.edu/workshop_details.php?id=48</cfp>
-        <colocation>COMPSAC 2012</colocation>
-        <courl>http://compsac.cs.iastate.edu/</courl>
-        <venue>Izmir, Turkey</venue>
-        <date>14 Dec 2011</date>
-        <begin>16 Jul 2012</begin>
-        <end>20 Jul 2012</end>
-      </pc>
+    <pc>
+      <title>Alignment Security in Business Process</title>
+      <kind>Joint International Workshop</kind>
+      <url>http://www.inf.unibz.it/sbp12/</url>
+      <cfp>http://www.inf.unibz.it/sbp12/</cfp>
+      <venue>Vienna, Austria</venue>
+      <date>24 Feb 2012</date>
+      <begin>03 Sep 2012</begin>
+      <end>04 Sep 2012</end>
+    </pc>
 
-      <pc>
-        <title>Web Services and Formal Methods</title>
-        <kind>9th International Workshop</kind>
-        <abbreviation>WS-FM 2012</abbreviation>
-        <url>http://www.informatik.uni-rostock.de/ws-fm2012</url>
-        <cfp>http://www.informatik.uni-rostock.de/ws-fm2012/cfp.html</cfp>
-        <colocation>BPM 2012</colocation>
-        <courl>http://bpm2012.ut.ee/</courl>
-        <venue>Tallin, Estonia</venue>
-        <date>02 Dec 2011</date>
-        <begin>06 Sep 2012</begin>
-        <end>07 Sep 2012</end>
-        <role>co-chair</role>
-      </pc>
+    <pc>
+      <title>BPMN 2012</title>
+      <kind>4th International Workshop</kind>
+      <url>http://emisa2012.univie.ac.at/index.php?t=bpmn</url>
+      <cfp>http://emisa2012.univie.ac.at/index.php?t=bpmn</cfp>
+      <venue>Vienna, Austria</venue>
+      <date>17 Jan 2012</date>
+      <begin>12 Sep 2012</begin>
+      <end>13 Sep 2012</end>
+    </pc>
 
-      <pc>
-        <title>Knowledge-intensive Business Processes</title>
-        <kind>1st International Workshop</kind>
-        <abbreviation>KiBP 2012</abbreviation>
-        <url>http://www.dis.uniroma1.it/~kibp2012/</url>
-        <cfp>http://www.dis.uniroma1.it/~kibp2012/cfp.shtml</cfp>
-        <colocation>KR 2012</colocation>
-        <courl>http://www.kr.org/KR2012/</courl>
-        <venue>Rome, Italy</venue>
-        <date>17 Nov 2011</date>
-        <begin>15 Jun 2012</begin>
-        <end>15 Jun 2012</end>
-      </pc>
+    <pc>
+      <title>Security Aspects of Process and Services Engineering</title>
+      <kind>4th IEEE International Workshop</kind>
+      <abbreviation>SAPSE 2012</abbreviation>
+      <url>http://compsac.cs.iastate.edu/workshop_details.php?id=48=</url>
+      <cfp>http://compsac.cs.iastate.edu/workshop_details.php?id=48</cfp>
+      <colocation>COMPSAC 2012</colocation>
+      <courl>http://compsac.cs.iastate.edu/</courl>
+      <venue>Izmir, Turkey</venue>
+      <date>14 Dec 2011</date>
+      <begin>16 Jul 2012</begin>
+      <end>20 Jul 2012</end>
+    </pc>
+
+    <pc>
+      <title>Web Services and Formal Methods</title>
+      <kind>9th International Workshop</kind>
+      <abbreviation>WS-FM 2012</abbreviation>
+      <url>http://www.informatik.uni-rostock.de/ws-fm2012</url>
+      <cfp>http://www.informatik.uni-rostock.de/ws-fm2012/cfp.html</cfp>
+      <colocation>BPM 2012</colocation>
+      <courl>http://bpm2012.ut.ee/</courl>
+      <venue>Tallin, Estonia</venue>
+      <date>02 Dec 2011</date>
+      <begin>06 Sep 2012</begin>
+      <end>07 Sep 2012</end>
+      <role>co-chair</role>
+    </pc>
+
+    <pc>
+      <title>Knowledge-intensive Business Processes</title>
+      <kind>1st International Workshop</kind>
+      <abbreviation>KiBP 2012</abbreviation>
+      <url>http://www.dis.uniroma1.it/~kibp2012/</url>
+      <cfp>http://www.dis.uniroma1.it/~kibp2012/cfp.shtml</cfp>
+      <colocation>KR 2012</colocation>
+      <courl>http://www.kr.org/KR2012/</courl>
+      <venue>Rome, Italy</venue>
+      <date>17 Nov 2011</date>
+      <begin>15 Jun 2012</begin>
+      <end>15 Jun 2012</end>
+    </pc>
 
     <pc>
       <title>Petri Nets and Software Engineering</title>
       <kind>International Workshop</kind>
       <abbreviation>PNSE 2012</abbreviation>
-<!--      <url>http://zeus-workshop.eu/2012</url>
+      <!--      <url>http://zeus-workshop.eu/2012</url>
       <cfp>https://sites.google.com/site/zeusworkshop2012/home</cfp> -->
       <colocation>PETRI NETS 2012</colocation>
       <courl>http://www.informatik.uni-hamburg.de/TGI/events/pn-acsd2012/home.shtml</courl>
@@ -355,48 +355,48 @@
       <end>06 Sep 2012</end>
     </pc>
 
-      <pc>
-        <title>Model Checking Contest</title>
-        <kind>Contest</kind>
-        <abbreviation>MCC 2012</abbreviation>
-        <url>http://mcc.lip6.fr/</url>
-        <!-- <cfp>http://www.sce.carleton.ca/faculty/wainer/DEVS12/doku.php?id=call_for_papers</cfp> -->
-        <colocation>PETRI NETS 2012</colocation>
-        <courl>http://www.informatik.uni-hamburg.de/TGI/events/pn2012/</courl>
-        <venue>Hamburg, Germany</venue>
-        <date>30 Jun 2011</date>
-        <begin>25 Jun 2012</begin>
-        <end>29 Jun 2012</end>
-        <role>contest committee</role>
-      </pc>
+    <pc>
+      <title>Model Checking Contest</title>
+      <kind>Contest</kind>
+      <abbreviation>MCC 2012</abbreviation>
+      <url>http://mcc.lip6.fr/</url>
+      <!-- <cfp>http://www.sce.carleton.ca/faculty/wainer/DEVS12/doku.php?id=call_for_papers</cfp> -->
+      <colocation>PETRI NETS 2012</colocation>
+      <courl>http://www.informatik.uni-hamburg.de/TGI/events/pn2012/</courl>
+      <venue>Hamburg, Germany</venue>
+      <date>30 Jun 2011</date>
+      <begin>25 Jun 2012</begin>
+      <end>29 Jun 2012</end>
+      <role>contest committee</role>
+    </pc>
 
-      <pc>
-        <title>Theory of Modeling and Simulation</title>
-        <kind>Symposium</kind>
-        <abbreviation>TMS/DEVS 2012</abbreviation>
-        <url>http://www.sce.carleton.ca/faculty/wainer/DEVS12/doku.php</url>
-        <cfp>http://www.sce.carleton.ca/faculty/wainer/DEVS12/doku.php?id=call_for_papers</cfp>
-        <colocation>Springsim 2012</colocation>
-        <courl>http://www.scs.org/springsim</courl>
-        <venue>Orlando, FL, USA</venue>
-        <date>16 Jun 2011</date>
-        <begin>26 Mar 2012</begin>
-        <end>29 Mar 2012</end>
-      </pc>
+    <pc>
+      <title>Theory of Modeling and Simulation</title>
+      <kind>Symposium</kind>
+      <abbreviation>TMS/DEVS 2012</abbreviation>
+      <url>http://www.sce.carleton.ca/faculty/wainer/DEVS12/doku.php</url>
+      <cfp>http://www.sce.carleton.ca/faculty/wainer/DEVS12/doku.php?id=call_for_papers</cfp>
+      <colocation>Springsim 2012</colocation>
+      <courl>http://www.scs.org/springsim</courl>
+      <venue>Orlando, FL, USA</venue>
+      <date>16 Jun 2011</date>
+      <begin>26 Mar 2012</begin>
+      <end>29 Mar 2012</end>
+    </pc>
 
-      <pc>
-        <title>Business Intelligence and Technology</title>
-        <kind>First International Conference</kind>
-        <abbreviation>BUSTECH 2011</abbreviation>
-        <url>http://www.iaria.org/conferences2011/BUSTECH11.html</url>
-        <cfp>http://www.iaria.org/conferences2011/BUSTECH11.html</cfp>
-        <colocation>ComputationWorld 2011</colocation>
-        <courl>http://www.iaria.org/conferences2011/ComputationWorld11.html</courl>
-        <venue>Rome, Italy</venue>
-        <date>23 Feb 2011</date>
-        <begin>25 Sep 2011</begin>
-        <end>30 Sep 2011</end>
-      </pc>
+    <pc>
+      <title>Business Intelligence and Technology</title>
+      <kind>First International Conference</kind>
+      <abbreviation>BUSTECH 2011</abbreviation>
+      <url>http://www.iaria.org/conferences2011/BUSTECH11.html</url>
+      <cfp>http://www.iaria.org/conferences2011/BUSTECH11.html</cfp>
+      <colocation>ComputationWorld 2011</colocation>
+      <courl>http://www.iaria.org/conferences2011/ComputationWorld11.html</courl>
+      <venue>Rome, Italy</venue>
+      <date>23 Feb 2011</date>
+      <begin>25 Sep 2011</begin>
+      <end>30 Sep 2011</end>
+    </pc>
 
     <pc>
       <title>Workflow Security Audit and Certification</title>
