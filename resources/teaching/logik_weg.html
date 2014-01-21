@@ -1,0 +1,67 @@
+<html>
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">   <title> Weg zur Prüfung </title>
+   <script language="javascript" src="http://www.google.com/jsapi"></script>
+   </head>
+   <body>
+
+   <div id="chart"></div>
+
+   <script type="text/javascript">
+      var queryString = '';
+      var dataUrl = '';
+
+      function onLoadCallback() {
+        if (dataUrl.length > 0) {
+          var query = new google.visualization.Query(dataUrl);
+          query.setQuery(queryString);
+          query.send(handleQueryResponse);
+        } else {
+          var dataTable = new google.visualization.DataTable();
+          dataTable.addRows(2);
+
+          dataTable.addColumn('number');
+          dataTable.addColumn('number');
+          dataTable.addColumn('number');
+          dataTable.setValue(0, 0, 26);
+          dataTable.setValue(0, 1, 42);
+          dataTable.setValue(0, 2, 53);
+          dataTable.setValue(1, 0, 16);
+          dataTable.setValue(1, 1, 11);
+          dataTable.setValue(1, 2, 17);
+
+          draw(dataTable);
+        }
+      }
+
+      function draw(dataTable) {
+        var vis = new google.visualization.ImageChart(document.getElementById('chart'));
+        var options = {
+          chxs: '0,000000,11.5',
+          chxt: 'x',
+          chs: '700x200',
+          cht: 'pc',
+          chco: '008000|FF0000,0080009B|FF000099,0080003C|FF000034',
+          chd: 's:QK,aH,gK',
+          chdlp: 'l',
+          chp: '0.3',
+          chl: 'bestanden (26)|nicht bestanden (16)|angetreten (42)|nicht angetreten (11)|zugelassen (53)|nicht zugelassen (17)',
+          chma: '|0,5',
+        };
+        vis.draw(dataTable, options);
+      }
+
+      function handleQueryResponse(response) {
+        if (response.isError()) {
+          alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
+          return;
+        }
+        draw(response.getDataTable());
+      }
+
+      google.load("visualization", "1", {packages:["imagechart"]});
+      google.setOnLoadCallback(onLoadCallback);
+
+    </script>
+  </body>
+</html>

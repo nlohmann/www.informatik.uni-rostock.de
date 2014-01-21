@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teaching>
+  <supervisions>
+      <thesis>
+        <author>Sascha Lamp</author>
+        <title>Selektive Speicherung von Zuständen auf Basis von Transitionsinvarianten in Petrinetzen</title>
+        <type>Bachelor thesis</type>
+        <institution>Universität Rostock</institution>
+        <date>02 Sep 2013</date>
+      </thesis>
+
+    <thesis>
+      <author>Christian Sura</author>
+      <title>Transformation von Gegenbeispielpfaden in reduzierten Netzen</title>
+      <type>Bachelor thesis</type>
+      <institution>Universität Rostock</institution>
+      <date>19 Apr 2011</date>
+    </thesis>
+
+    <thesis>
+      <author>Martin Nyolt</author>
+      <title>Modellierung artefaktzentrierter Choreographien</title>
+      <type>Bachelor thesis</type>
+      <institution>Universität Rostock</institution>
+      <date>21 Mar 2011</date>
+    </thesis>
+
+    <thesis>
+      <author>Stephan Mennicke</author>
+      <title>Study of Applicability of Algorithms for Services to Distributed Standard Algorithms</title>
+      <type>Bachelor thesis</type>
+      <institution>Universität Rostock</institution>
+      <date>28 Mar 2011</date>
+    </thesis>
+
+    <thesis>
+      <author>Andreas Lehmann</author>
+      <title>Dekomposition von Geschäftsprozessmodellen</title>
+      <date>15 Dec 2010</date>
+      <url>http://wwwteo.informatik.uni-rostock.de/ls_tpp/publications/Lehmann_2010_da.pdf</url>
+      <type>Diploma thesis</type>
+      <institution>Universität Rostock</institution>
+    </thesis>
+
+    <thesis>
+      <author>Andreas Lehmann</author>
+      <title>Effiziente Implementierung und Validierung der Basisalgorithmen für Bedienungsanleitungen mit impliziter Formelrepräsentation</title>
+      <date>22 Mar 2010</date>
+      <url>http://wwwteo.informatik.uni-rostock.de/ls_tpp/publications/Lehmann_2010_sa.pdf</url>
+      <type>Seminar paper</type>
+      <institution>Universität Rostock</institution>
+    </thesis>
+
+    <thesis>
+      <author>Jens Kleine</author>
+      <title>Transformation von offenen Workflow-Netzen zu abstrakten WS-BPEL-Prozessen</title>
+      <date>04 Jul 2007</date>
+      <url>http://www2.informatik.hu-berlin.de/top/download/publications/Kleine2007_da.pdf</url>
+      <type>Diploma thesis</type>
+      <institution>Humboldt-Universität zu Berlin</institution>
+    </thesis>
+
+    <thesis>
+      <author>Jens Kleine</author>
+      <title>Abstrakte Petrinetzmuster für BPEL unter Bewahrung von Verklemmungen</title>
+      <date>09 Oct 2006</date>
+      <url>http://www2.informatik.hu-berlin.de/top/download/publications/Kleine2006_sa.pdf</url>
+      <type>Seminar paper</type>
+      <institution>Humboldt-Universität zu Berlin</institution>
+    </thesis>
+  </supervisions>
+
+
+  <lectures>
+      <lecture>
+        <title>Die Programmiersprache Python</title>
+        <institution>Universität Rostock</institution>
+        <detail>at the 5. Landesolympiade Informatik</detail>
+        <term>2013/2014</term>
+      </lecture>
+
+      <lecture>
+        <title>Compilerbau</title>
+        <institution>Universität Rostock</institution>
+        <term>Fall 2013/2014</term>
+        <byProxy />
+      </lecture>
+
+      <lecture>
+        <title>Die Programmiersprache Python</title>
+        <institution>Universität Rostock</institution>
+        <detail>at the 4. Landesolympiade Informatik</detail>
+        <term>2012/2013</term>
+      </lecture>
+
+      <lecture>
+        <title>Compilerbau</title>
+        <institution>Universität Rostock</institution>
+        <term>Fall 2012/2013</term>
+        <byProxy />
+      </lecture>
+
+      <lecture>
+        <title>Die Programmiersprache Python</title>
+        <institution>Universität Rostock</institution>
+        <detail>at the 4. Landesolympiade Informatik</detail>
+        <term>2011/2012</term>
+      </lecture>
+
+      <lecture>
+        <title>Logik</title>
+        <institution>Universität Rostock</institution>
+        <term>Summer 2011</term>
+        <byProxy />
+      </lecture>
+
+      <lecture>
+        <title>Semantik von Programmiersprachen</title>
+        <institution>Universität Rostock</institution>
+        <term>Summer 2011</term>
+        <byProxy />
+      </lecture>
+
+    <lecture>
+      <title>Die Programmiersprache Python</title>
+      <institution>Universität Rostock</institution>
+      <detail>at the 3. Landesolympiade Informatik</detail>
+      <term>2010/2011</term>
+    </lecture>
+
+    <lecture>
+      <title>Modelle für Geschäftsprozesse und Services</title>
+      <institution>Universität Rostock</institution>
+      <term>Fall 2009/2010</term>
+      <byProxy />
+    </lecture>
+
+    <lecture>
+      <title>Semantik von Programmiersprachen</title>
+      <institution>Universität Rostock</institution>
+      <term>Fall 2009/2010</term>
+      <byProxy />
+    </lecture>
+  </lectures>
+
+  <exercises>
+      <exercise>
+        <title>Computergestützte Verifikation</title>
+        <institution>Universität Rostock</institution>
+        <term>Fall 2013/2014</term>
+      </exercise>
+
+      <exercise>
+        <title>Compilerbau</title>
+        <institution>Universität Rostock</institution>
+        <term>Fall 2013/2014</term>
+      </exercise>
+
+      <exercise>
+        <title>Formale Systeme</title>
+        <institution>Universität Rostock</institution>
+        <term>Summer 2013</term>
+      </exercise>
+
+      <exercise>
+        <title>Compilerbau</title>
+        <institution>Universität Rostock</institution>
+        <term>Fall 2012/2013</term>
+      </exercise>
+
+      <exercise>
+        <title>Formale Systeme</title>
+        <institution>Universität Rostock</institution>
+        <term>Summer 2012</term>
+        <page>fsys_2012</page>
+      </exercise>
+
+      <exercise>
+        <title>Formale Sprachen</title>
+        <institution>Universität Rostock</institution>
+        <page>fs_2011</page>
+        <term>Fall 2011/2012</term>
+        <evaluation>logik-fs-ws2011.pdf</evaluation>
+      </exercise>
+
+    <exercise>
+      <title>Berechenbarkeit und Komplexität</title>
+      <institution>Universität Rostock</institution>
+      <term>Summer 2011</term>
+      <page>buk_2011</page>
+      <evaluation>logik-buk-ss2011.pdf</evaluation>
+    </exercise>
+
+    <exercise>
+      <title>Logik</title>
+      <institution>Universität Rostock</institution>
+      <term>Fall 2010/2011</term>
+      <page>logik_2010</page>
+      <evaluation>logik-ue-ws2010.pdf</evaluation>
+    </exercise>
+  </exercises>
+
+  <seminars>
+      <seminar>
+        <title>Beauty is our business</title>
+        <institution>Universität Rostock</institution>
+        <term>Summer 2013</term>
+      </seminar>
+
+      <seminar>
+        <title>Komplexe Softwaresysteme: Verteilung von Algorithmen zur Zustandsraumverifikation</title>
+        <institution>Universität Rostock</institution>
+        <term>Summer 2013</term>
+      </seminar>
+
+    <seminar>
+      <title>Beauty is our business</title>
+      <institution>Universität Rostock</institution>
+      <term>Fall 2012/2013</term>
+    </seminar>
+
+    <seminar>
+      <title>Beauty is our business</title>
+      <institution>Universität Rostock</institution>
+      <term>Fall 2011/2012</term>
+    </seminar>
+
+    <seminar>
+      <title>Komplexe Softwaresysteme: Wer wird Millionär in der Vorlesung</title>
+      <institution>Universität Rostock</institution>
+      <term>Fall 2011/2012</term>
+    </seminar>
+
+    <seminar>
+      <title>Komplexe Softwaresysteme: Software as a Service</title>
+      <institution>Universität Rostock</institution>
+      <term>Fall 2009/2010</term>
+    </seminar>
+
+    <seminar>
+      <title>Statische Programmanalyse</title>
+      <institution>Humboldt-Universität zu Berlin</institution>
+      <term>Fall 2005/2006</term>
+    </seminar>
+
+    <seminar>
+      <title>BPEL-Taskforce</title>
+      <institution>Humboldt-Universität zu Berlin</institution>
+      <term>Fall 2005/2006</term>
+    </seminar>
+  </seminars>
+
+</teaching>

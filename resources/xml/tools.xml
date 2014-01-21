@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tooling>
+  <tools>
+    <tool>
+      <name>Wendy</name>
+      <description>Wendy synthesizes partners for services.</description>
+      <codevelopers>Daniela Weinberg</codevelopers>
+      <status>active</status>
+      <release>15 Jul 2010</release>
+      <paper>LohmannW_2010_atpn</paper>
+    </tool>
+
+    <tool>
+      <name>BPEL2oWFN</name>
+      <description>BPEL2oWFN translates WS-BPEL processes into a Petri net model. It implements a feature-complete Petri net semantics for the first specification proposal BPEL4WS 1.1 and the current specification WS-BPEL 2.0.</description>
+      <codevelopers>Christian Gierds, Dennis Reinert, and Martin Znamirowski</codevelopers>
+      <status>inactive</status>
+      <release>29 Jun 2007</release>
+      <paper>Lohmann_2007_wsfm</paper>
+    </tool>
+
+    <tool>
+      <name>Petri Net API</name>
+      <description>The Petri Net API encapsulates Petri net-related functions in a C++ library. It is currently used in many of the service-technology.org tools such as Mia and Wendy. The functionality includes creation, deletion, and manipulation of Petri net nodes, import and export using many standard Petri net file formats including PNML, application of structural reduction rules, and several structural checks, for instance for the free-choice property or workflow net structure.</description>
+      <codevelopers>Stephan Mennicke, Georg Straube, Christian Sura, and Robert Waltemath</codevelopers>
+      <status>active</status>
+      <release>28 Jul 2010</release>
+      <paper>LohmannMS_2010_awpn</paper>
+    </tool>
+
+    <tool>
+      <name>Rachel</name>
+      <description>Rachel repairs deadlocking service choreographies.</description>
+      <status>inactive</status>
+      <release>18 Jan 2010</release>
+      <paper>Lohmann_2008_bpm</paper>
+    </tool>
+  </tools>
+</tooling>

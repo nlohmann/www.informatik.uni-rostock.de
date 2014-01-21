@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presentations>
+
+  <invited>
+      <talk id="potsdam2013">
+        <title>Pragmatic Model Checking: From Theory to Implementations</title>
+        <detail>invited lecture at the Business Process Compliance course at the Hasso-Plattner-Institute</detail>
+    <!--    <slideshare>http://www.slideshare.net/correctsystems/state-space-reduction-techniques-to-verify-business-processes</slideshare> -->
+        <vimeo>http://www.tele-task.de/de/archive/lecture/overview/7444/</vimeo>
+        <venue>Potsdam, Germany</venue>
+        <date>03 Dec 2013</date>
+      </talk>
+
+    <talk id="petrinets2011">
+      <title>Verification with LoLA</title>
+      <detail>full-day tutorial; satellite event of the PETRI NETS 2011/ACSD 2011 conferences</detail>
+      <slideshare>http://www.slideshare.net/correctsystems/verification-with-lola</slideshare>
+      <venue>Newcastle upon Tyne, UK</venue>
+      <date>20 Jun 2011</date>
+    </talk>
+
+    <talk id="teheran2011">
+      <title>Correcting Deadlocking Service Choreographies</title>
+      <detail>invited lecture at the School of Electrical and Computer Engineering at the College of Engineering of the University of Teheran</detail>
+<!--      <slideshare>http://www.slideshare.net/correctsystems/state-space-reduction-techniques-to-verify-business-processes</slideshare> -->
+      <venue>Teheran, Iran</venue>
+      <date>07 Mar 2011</date>
+    </talk>
+
+    <talk id="potsdam2010">
+      <title>State Space Reduction Techniques to Verify Business Processes</title>
+      <detail>invited lecture at the Business Process Management course at the Hasso-Plattner-Institute</detail>
+      <slideshare>http://www.slideshare.net/correctsystems/state-space-reduction-techniques-to-verify-business-processes</slideshare>
+      <vimeo>http://vimeo.com/11592824</vimeo>
+      <venue>Potsdam, Germany</venue>
+      <date>11 Jan 2010</date>
+    </talk>
+
+    <talk id="petrinets2006">
+      <title>Tools4BPEL Tutorial</title>
+      <detail>part of the Advanced Tutorial on Petri Net Modelling of Business Processes; satellite event of the PETRI NETS 2006/ACSD 2006 conferences</detail>
+      <slideshare>http://www.slideshare.net/correctsystems/tools4bpel-tutorial-6313423</slideshare>
+      <venue>Turku, Finland</venue>
+      <date>27 Jun 2006</date>
+    </talk>
+  </invited>
+
+
+  <conferences>
+    <talk id="icsoc2011">
+      <title>Decidability Results for Choreography Realization</title>
+      <conference>Ninth International Conference on Service-Oriented Computing</conference>
+      <abbreviation>ICSOC 2011</abbreviation>
+      <url>http://www.icsoc2011.cs.ucy.ac.cy/index.php</url>
+      <slideshare>http://www.slideshare.net/correctsystems/decidability-results-for-choreography-realization</slideshare>
+      <venue>Paphos, Cyprus</venue>
+      <date>06 Dec 2011</date>
+    </talk>
+
+    <talk id="bpm2011">
+      <title>Compliance by Design for Artifact-Centric Business Processes</title>
+      <conference>Ninth International Conference on Business Process Management</conference>
+      <abbreviation>BPM 2011</abbreviation>
+      <url>http://bpm2011.isima.fr/</url>
+      <slideshare>http://www.slideshare.net/correctsystems/compliance-by-design-for-artifactcentric-business-processes</slideshare>
+      <venue>Clermont-Ferrand, France</venue>
+      <date>01 Sep 2011</date>
+    </talk>
+
+    <talk id="icsoc2010">
+      <title>Artifact-Centric Choreographies</title>
+      <conference>Eighth International Conference on Service-Oriented Computing</conference>
+      <abbreviation>ICSOC 2010</abbreviation>
+      <url>http://icsoc10.disi.unitn.it/</url>
+      <slideshare>http://www.slideshare.net/correctsystems/artifactcentric-choreography</slideshare>
+      <venue>San Francisco, CA, USA</venue>
+      <date>08 Dec 2010</date>
+    </talk>
+
+    <talk id="bpm2010">
+      <title>How to implement a theory of correctness in the area of business processes and services</title>
+      <conference>Eighth International Conference on Business Process Management</conference>
+      <abbreviation>BPM 2010</abbreviation>
+      <url>http://www.bpm2010.org/</url>
+      <slideshare>http://www.slideshare.net/correctsystems/how-to-implement-a-theory-of-correctness-in-the-area-of-business-processes-and-services</slideshare>
+      <venue>Hoboken, NJ, USA</venue>
+      <date>16 Sep 2010</date>
+    </talk>
+
+    <talk id="petrinets2010">
+      <title>Wendy: A tool to synthesize partners for services</title>
+      <conference>31st International Conference on Petri Nets and Other Models of Concurrency</conference>
+      <abbreviation>PETRI NETS 2010</abbreviation>
+      <url>http://acsd-petrinets2010.di.uminho.pt/?page=PetriNets2010</url>
+      <slideshare>http://www.slideshare.net/correctsystems/wendy-a-tool-to-synthesize-partners-for-services</slideshare>
+      <venue>Braga, Portugal</venue>
+      <date>21 Jun 2010</date>
+    </talk>
+
+    <talk id="bpm2008">
+      <title>Correcting Deadlocking Service Choreographies Using a Simulation-Based Graph Edit Distance</title>
+      <conference>Sixth International Conference on Business Process Management</conference>
+      <abbreviation>BPM 2008</abbreviation>
+      <url>http://emma.polimi.it/emma/showEvent.do?idEvent=22</url>
+      <slideshare>http://www.slideshare.net/correctsystems/correcting-deadlocking-service-choreographies-using-a-simulationbased-graph-edit-distance</slideshare>
+      <venue>Milan, Italy</venue>
+      <date>02 Sep 2008</date>
+    </talk>
+
+    <talk id="www2008">
+      <title>Extending the Compatibility Notion for Abstract WS-BPEL Processes</title>
+      <conference>17th International Conference on the World Wide Web</conference>
+      <abbreviation>WWW 2008</abbreviation>
+      <url>http://www2008.org/</url>
+      <slideshare>http://www.slideshare.net/correctsystems/extending-the-compatibility-notion-for-abstract-wsbpel-processes</slideshare>
+      <venue>Beijing, China</venue>
+      <date>24 Apr 2008</date>
+    </talk>
+
+    <talk id="modellierung2008">
+      <title>Übersetzung von Petrinetzen in BPEL-Prozesse</title>
+      <conference>Modellierung 2008</conference>
+      <url>http://www2.informatik.hu-berlin.de/top/modellierung2008/index.php</url>
+      <slideshare>http://www.slideshare.net/correctsystems/bersetzung-von-petrinetzen-in-bpelprozesse</slideshare>
+      <venue>Berlin, Germany</venue>
+      <date>13 Mar 2008</date>
+    </talk>
+
+    <talk id="bpm2007">
+      <title>Behavioral Constraints for Services</title>
+      <conference>Fifth International Conference on Business Process Management</conference>
+      <abbreviation>BPM 2007</abbreviation>
+      <url>http://bpm07.fit.qut.edu.au/</url>
+      <slideshare>http://www.slideshare.net/correctsystems/07-0927-bpm-behavioral-constraints-for-services</slideshare>
+      <venue>Brisbane, Australia</venue>
+      <date>27 Sep 2007</date>
+    </talk>
+
+    <talk id="bpm2006">
+      <title>Analyzing Interacting BPEL Processes</title>
+      <conference>Fourth International Conference on Business Process Management</conference>
+      <abbreviation>BPM 2006</abbreviation>
+      <url>http://bpm2006.tuwien.ac.at/</url>
+      <slideshare>http://www.slideshare.net/correctsystems/analyzing-interacting-bpel-processes</slideshare>
+      <venue>Vienna, Austria</venue>
+      <date>05 Sep 2006</date>
+    </talk>
+  </conferences>
+
+
+  <workshops>
+      <talk id="wesoa2011">
+        <title>Artifact-centric modeling using BPMN</title>
+        <conference>6th International Workshop on Engineering Service-Oriented Applications</conference>
+        <abbreviation>WESOA'11</abbreviation>
+        <url>http://www.zirpins.de/WESOA11/Overview.html</url>
+        <slideshare>http://www.slideshare.net/correctsystems/artifactcentric-modeling-using-bpmn</slideshare>
+        <venue>Paphos, Cyprus</venue>
+        <date>05 Dec 2011</date>
+      </talk>
+
+      <talk id="zeus2011">
+        <title>Internal Behavior Reduction for Partner Synthesis</title>
+        <conference>Third Central-European Workshop on Services and their Composition</conference>
+        <abbreviation>ZEUS 2011</abbreviation>
+        <url>http://zeus2011.aifb.kit.edu/</url>
+        <slideshare>http://www.slideshare.net/correctsystems/internal-behavior-reduction-for-services</slideshare>
+        <venue>Karlsruhe, Germany</venue>
+        <date>22 Feb 2011</date>
+      </talk>
+
+    <talk id="awpn2010">
+      <title>The Petri Net API - A collection of Petri net-related functions</title>
+      <conference>17th German Workshop on Algorithms and Tools for Petri Nets</conference>
+      <abbreviation>AWPN 2010</abbreviation>
+      <url>http://www-dssz.informatik.tu-cottbus.de/BME/AWPN2010</url>
+      <slideshare>http://www.slideshare.net/correctsystems/the-petri-net-api-a-collection-of-petri-netrelated-functions</slideshare>
+      <venue>Cottbus, Germany</venue>
+      <date>07 Oct 2010</date>
+    </talk>
+
+    <talk id="zeus2010">
+      <title>Communication Models for Services</title>
+      <conference>Second Central-European Workshop on Services and their Composition</conference>
+      <abbreviation>ZEUS 2010</abbreviation>
+      <url>http://www2.informatik.hu-berlin.de/top/zeus/</url>
+      <slideshare>http://www.slideshare.net/correctsystems/communication-models-for-services</slideshare>
+      <venue>Berlin, Germany</venue>
+      <date>25 Feb 2010</date>
+    </talk>
+
+    <talk id="bpd2009">
+      <title>Diagnosing and Repairing Data Anomalies in Process Models</title>
+      <conference>5th International Workshop on Business Process Design</conference>
+      <abbreviation>BPD 2009</abbreviation>
+      <url>http://www.qatar.cmu.edu/user/selmal/bpd09.html</url>
+      <colocation>BPM 2009</colocation>
+      <courl>http://www.bpm2009.org/</courl>
+      <slideshare>http://www.slideshare.net/correctsystems/diagnosing-and-repairing-data-anomalies-in-process-models-1962552</slideshare>
+      <venue>Ulm, Germany</venue>
+      <date>07 Sep 2009</date>
+    </talk>
+
+    <talk id="wsfm2009">
+      <title>Realizability is Controllability</title>
+      <conference>6th International Workshop on Web Services and Formal Methods</conference>
+      <abbreviation>WS-FM 2009</abbreviation>
+      <url>http://www.cs.unibo.it/ws-fm09/</url>
+      <slideshare>http://www.slideshare.net/correctsystems/realizability-is-controllability-1951036</slideshare>
+      <venue>Bologna, Italy</venue>
+      <date>04 Sep 2009</date>
+    </talk>
+
+    <talk id="zeus2009">
+      <title>Realisierbarkeit ist Bedienbarkeit</title>
+      <conference>First Central-European Workshop on Services and their Composition</conference>
+      <abbreviation>ZEUS 2009</abbreviation>
+      <url>http://www.iaas.uni-stuttgart.de/zeus/</url>
+      <slideshare>http://www.slideshare.net/correctsystems/realisierbarkeit-ist-bedienbarkeit-4025212</slideshare>
+      <venue>Stuttgart, Germany</venue>
+      <date>03 Apr 2009</date>
+    </talk>
+
+    <talk id="best2009">
+      <title>Decentralized Controllability</title>
+      <conference>Berlin-Eindhoven Service Technology Colloquium 2009</conference>
+      <abbreviation>B.E.S.T. 2009</abbreviation>
+      <url>http://www.informatik.hu-berlin.de/top/best</url>
+      <slideshare>http://www.slideshare.net/correctsystems/decentralized-controllability</slideshare>
+      <venue>Eindhoven, The Netherlands</venue>
+      <date>23 Mar 2009</date>
+    </talk>
+
+    <talk id="wesoa2008">
+      <title>Test Suite Generation for Services</title>
+      <conference>Fourth International Workshop on Engineering Service-Oriented Applications: Analysis and Design</conference>
+      <abbreviation>WESOA 2008</abbreviation>
+      <url>http://www.zirpins.de/WESOA08/Overview.html</url>
+      <colocation>ICSOC 2008</colocation>
+      <courl>http://cgi.cse.unsw.edu.au/~soc/icsoc08/</courl>
+      <slideshare>http://www.slideshare.net/correctsystems/test-suite-generation-for-services</slideshare>
+      <venue>Sydney, Australia</venue>
+      <date>01 Dec 2008</date>
+    </talk>
+
+    <talk id="awpn2008">
+      <title>Teilen und Herrschen von Bedienungsanleitungen</title>
+      <conference>15th German Workshop on Algorithms and Tools for Petri Nets</conference>
+      <abbreviation>AWPN 2008</abbreviation>
+      <url>http://wwwteo.informatik.uni-rostock.de/ls_tpp/awpn2008/</url>
+      <slideshare>http://www.slideshare.net/correctsystems/teilen-und-herrschen-von-bedienungsanleitungen</slideshare>
+      <venue>Rostock, Germany</venue>
+      <date>27 Sep 2008</date>
+    </talk>
+
+    <talk id="wsfm2008">
+      <title>Why does my service have no partners?</title>
+      <conference>5th International Workshop on Web Services and Formal Methods</conference>
+      <abbreviation>WS-FM 2008</abbreviation>
+      <url>http://www.informatik.uni-rostock.de/ws-fm2008/index.html</url>
+      <slideshare>http://www.slideshare.net/correctsystems/why-does-my-service-have-no-partners</slideshare>
+      <venue>Milan, Italy</venue>
+      <date>05 Sep 2008</date>
+    </talk>
+
+    <talk id="yrsoc2008">
+      <title>Fixing Choreographies Using a Simulation-based Graph Edit Distance</title>
+      <conference>3rd European Young Researchers Workshop on Service Oriented Computing</conference>
+      <abbreviation>YR-SOC 2008</abbreviation>
+      <url>http://kmi.open.ac.uk/events/yrsoc/2008/</url>
+      <slideshare>http://www.slideshare.net/correctsystems/fixing-choreographies-using-graph-similarities</slideshare>
+      <venue>London, Great Britain</venue>
+      <date>12 Jun 2008</date>
+    </talk>
+
+    <talk id="wsfm2007-1">
+      <title>From Public Views to Private Views - Correctness-by-Design for Services</title>
+      <conference>4th International Workshop on Web Services and Formal Methods</conference>
+      <abbreviation>WS-FM 2007</abbreviation>
+      <url>http://bpm07.fit.qut.edu.au/ws-fm07/</url>
+      <slideshare>http://www.slideshare.net/correctsystems/from-public-view-to-private-view</slideshare>
+      <venue>Brisbane, Australia</venue>
+      <date>28 Sep 2009</date>
+    </talk>
+
+    <talk id="wsfm2007-2">
+      <title>A Feature-Complete Petri Net Semantics for WS-BPEL 2.0</title>
+      <conference>4th International Workshop on Web Services and Formal Methods</conference>
+      <abbreviation>WS-FM 2007</abbreviation>
+      <url>http://bpm07.fit.qut.edu.au/ws-fm07/</url>
+      <slideshare>http://www.slideshare.net/correctsystems/a-featurecomplete-petri-net-semantics-for-wsbpel-20</slideshare>
+      <venue>Brisbane, Australia</venue>
+      <date>28 Sep 2009</date>
+    </talk>
+
+    <talk id="wsfm2007-3">
+      <title>Analyzing BPEL4Chor: Verification and Participant Synthesis</title>
+      <conference>4th International Workshop on Web Services and Formal Methods</conference>
+      <abbreviation>WS-FM 2007</abbreviation>
+      <url>http://bpm07.fit.qut.edu.au/ws-fm07/</url>
+      <slideshare>http://www.slideshare.net/correctsystems/analyzing-bpel4chor-verification-and-participant-synthesis</slideshare>
+      <venue>Brisbane, Australia</venue>
+      <date>28 Sep 2009</date>
+    </talk>
+
+    <talk id="best2007">
+      <title>Diagnosis of Open Workflow Nets</title>
+      <conference>Berlin-Eindhoven Service Technology Colloquium 2007</conference>
+      <abbreviation>B.E.S.T. 2007</abbreviation>
+      <url>http://www.informatik.hu-berlin.de/top/best</url>
+      <slideshare>http://www.slideshare.net/correctsystems/diagnosis-of-open-workflow-nets</slideshare>
+      <venue>Eindhoven, The Netherlands</venue>
+      <date>16 Aug 2007</date>
+    </talk>
+
+    <talk id="fabpws2007">
+      <title>A Feature-Complete Petri Net Semantics for WS-BPEL 2.0</title>
+      <conference>Formal Approaches to Business Processes and Web Services</conference>
+      <abbreviation>FABPWS'07</abbreviation>
+      <url>http://wwwteo.informatik.uni-rostock.de/ls_tpp/workshop07/</url>
+      <colocation>ATPN 2007</colocation>
+      <courl>http://atpn2007.ap.siedlce.pl/</courl>
+      <slideshare>http://www.slideshare.net/correctsystems/a-featurecomplete-petri-net-a-featurecomplete-petri-net-semantics-for-wsbpel-20</slideshare>
+      <venue>Siedlce, Poland</venue>
+      <date>26 Jun 2007</date>
+    </talk>
+
+    <talk id="dagstuhl2007">
+      <title>Analyzing Web Service Behavior</title>
+      <conference>Programming Paradigms for the Web: Web Programming &amp; Web Services</conference>
+      <abbreviation>Dagstuhl-Seminar 07051</abbreviation>
+      <url>http://www.dagstuhl.de/07051</url>
+      <slideshare>http://www.slideshare.net/correctsystems/analyzing-web-service-behavior</slideshare>
+      <venue>Dagstuhl, Germany</venue>
+      <date>28 Jan 2007</date>
+    </talk>
+
+    <talk id="best2006">
+      <title>Analyzing Interacting BPEL Processes - An Overview of the Chair's Work</title>
+      <conference>Berlin-Eindhoven Service Technology Colloquium 2006</conference>
+      <abbreviation>B.E.S.T. 2006</abbreviation>
+      <url>http://www.informatik.hu-berlin.de/top/best</url>
+      <slideshare>http://www.slideshare.net/correctsystems/analyzing-interacting-bpel-processes-an-overview-of-the-chairs-work</slideshare>
+      <venue>Eindhoven, The Netherlands</venue>
+      <date>30 Aug 2006</date>
+    </talk>
+
+    <talk id="doctoral2006">
+      <title>A Local Cut-off Criterion for Unfoldings of Safe Petri Nets</title>
+      <conference>Doctoral Consortium ACSD &amp; Petri Nets 2006</conference>
+      <colocation>ATPN 2006</colocation>
+      <venue>Turku, Finland</venue>
+      <date>27 Jun 2006</date>
+    </talk>
+
+    <talk id="luhme2004">
+      <title>Modellierung eines verteilten Algorithmus</title>
+      <conference>Luhme X</conference>
+      <slideshare>http://www.slideshare.net/correctsystems/modellierung-eines-verteilten-algorithmus</slideshare>
+      <venue>Groß Köris, Germany</venue>
+      <date>14 Oct 2004</date>
+    </talk>
+  </workshops>
+
+
+  <demonstrations>
+    <talk id="bpmdemos2010">
+      <title>service-technology.org - A tool family for correct business processes and services</title>
+      <conference>Eighth International Conference on Business Process Management</conference>
+      <abbreviation>BPM 2010</abbreviation>
+      <url>http://www.bpm2010.org/</url>
+      <slideshare>http://www.slideshare.net/correctsystems/servicetechnologyorg-a-tool-family-for-correctbusiness-processes-and-services</slideshare>
+      <venue>Hoboken, NJ, USA</venue>
+      <date>16 Sep 2010</date>
+    </talk>
+
+    <talk id="petrinetsdemos2010">
+      <title>Wendy: A tool to synthesize partners for services</title>
+      <conference>31st International Conference on Petri Nets and Other Models of Concurrency</conference>
+      <abbreviation>PETRI NETS 2010</abbreviation>
+      <url>http://acsd-petrinets2010.di.uminho.pt/?page=PetriNets2010</url>
+      <venue>Braga, Portugal</venue>
+      <date>20 Jun 2010</date>
+    </talk>
+
+    <talk id="yrsocdemos2008">
+      <title>Tools4BPEL4Chor</title>
+      <conference>3rd European Young Researchers Workshop on Service Oriented Computing</conference>
+      <abbreviation>YR-SOC 2008</abbreviation>
+      <url>http://kmi.open.ac.uk/events/yrsoc/2008/</url>
+      <slideshare>http://www.slideshare.net/correctsystems/tools4bpel4chor</slideshare>
+      <venue>London, Great Britain</venue>
+      <date>13 Jun 2008</date>
+    </talk>
+
+    <talk id="bestdemos2006">
+      <title>Demonstration of BPEL2oWFN and Fiona</title>
+      <conference>Berlin-Eindhoven Service Technology Colloquium 2006</conference>
+      <abbreviation>B.E.S.T. 2006</abbreviation>
+      <url>http://www.informatik.hu-berlin.de/top/best</url>
+      <slideshare>http://www.slideshare.net/correctsystems/demonstration-of-bpel2owfn-and-fiona</slideshare>
+      <venue>Eindhoven, The Netherlands</venue>
+      <date>01 Sep 2006</date>
+    </talk>
+
+    <talk id="dagstuhldemos2006">
+      <title>Analyzing Interacting BPEL Processes - A Tool Demo</title>
+      <conference>The Role of Business Processes in Service Oriented Architectures</conference>
+      <abbreviation>Dagstuhl-Seminar 06291</abbreviation>
+      <url>http://www.dagstuhl.de/06291</url>
+      <slideshare>http://www.slideshare.net/correctsystems/analyzing-interacting-bpel-processes-a-tool-demo</slideshare>
+      <venue>Dagstuhl, Germany</venue>
+      <date>21 Jul 2006</date>
+    </talk>
+
+    <talk id="petrinetsdemos2006">
+      <title>Tools4BPEL Tool Demonstration</title>
+      <conference>Advanced Tutorial on Petri Net Modelling of Business Processes; satellite event of the PETRI NETS 2006/ACSD 2006 conferences</conference>
+      <slideshare>http://www.slideshare.net/correctsystems/tools4bpel-tool-demonstration</slideshare>
+      <venue>Turku, Finland</venue>
+      <date>27 Jun 2006</date>
+    </talk>
+  </demonstrations>
+
+
+  <miscellaneous>
+    <talk id="phd">
+      <title>Correctness of services and their composition</title>
+      <detail>Overview talk given at the PhD defense ceremony at the Technische Universiteit Eindhoven</detail>
+      <slideshare>http://www.slideshare.net/correctsystems/correctness-of-services-and-their-composition</slideshare>
+      <venue>Eindhoven, The Netherlands</venue>
+      <date>27 Sep 2010</date>
+    </talk>
+
+    <talk id="diplomarbeit">
+      <title>Formale Fundierung und effizientere Implementierung der schrittbasierten TLDA-Interleavingsemantik</title>
+      <detail>Talk given at the diploma defense ceremony at Humboldt-Universität zu Berlin</detail>
+ <slideshare>http://www.slideshare.net/correctsystems/formale-fundierung-und-effizientere-implementierung-der-schrittbasierten-tldainterleavingsemantik</slideshare>
+      <venue>Berlin, Germany</venue>
+      <date>23 Sep 2005</date>
+    </talk>
+
+   <talk id="studienarbeit">
+     <title>Implementation of an Interleaving Semantics for TLDA</title>
+     <detail>Overview talk for the Studienarbeit thesis at Humboldt-Universität zu Berlin</detail>
+<slideshare>http://www.slideshare.net/correctsystems/implementation-of-an-interleaving-semantics-for-tlda</slideshare>
+     <venue>Berlin, Germany</venue>
+     <date>07 May 2005</date>
+   </talk>
+  </miscellaneous>
+</presentations>

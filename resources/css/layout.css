@@ -1,0 +1,477 @@
+@import "reset.css";
+@import url(http://fonts.googleapis.com/css?family=Lato:300italic,300,700&v2);
+
+/********\
+* BASICS *
+\********/
+
+#main {
+    padding-top: 50px;
+    padding-left: 17em;
+    width: 700px;
+    margin-bottom: 5em;
+}
+
+p {
+    margin-bottom: 0.5em;
+}
+
+strong {
+    font-weight: 700;
+}
+
+article blockquote {
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+mi {
+    font-style: italic;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+#main p, #main blockquote, #main ul, article p, article ul {
+    font: 1em/1.5em Lato, 'Helvetica Neue Light', Helvetica, sans-serif;
+    font-weight: 300;
+}
+
+h1 {
+    font-family: Lato, 'Helvetica Neue Light', Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+
+article {
+    margin: 20px;
+    width: 700px;
+}
+
+article h1 {
+    padding-bottom: 1em;
+}
+
+article h2, article h3 {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+article h4, article h5 {
+    font-family: Lato, 'Helvetica Neue Light', Helvetica, sans-serif;
+    display: inline;
+}
+
+#main h1 {
+    position: absolute;
+    top: 0.45em;
+    color: white;
+}
+
+h2 {
+    font-family: Lato, 'Helvetica Neue Light', Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+
+#main h2 {
+    margin-top: 2em;
+}
+
+h3 {
+    font-family: Lato, 'Helvetica Neue Light', Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 1.1em;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    text-transform: uppercase;
+}
+
+abbr {
+    font-size: 0.9em;
+}
+
+#main h2.first, #main h3.first {
+    margin-top: 0em;
+}
+
+a {
+    color: #000;
+    border-bottom: 1px solid #3283A4; 
+    text-decoration: none;
+}
+
+a:hover {
+    color: #3283A4;
+    text-decoration: none;
+    border-bottom: 1px solid #3283A4; 
+    background-color: #CCE0E8;
+}
+
+
+ul.book > li {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+ul.book  {
+    list-style-image: url("../img/icons/bullet.png");
+    list-style-position: outside;
+    padding: 0;
+}
+
+
+
+/********\
+* HEADER *
+\********/
+
+/* Schriftzug 'Niels Lohmann' */
+#header {
+    background: #5e5e5e;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-left: 15px;
+    font-family: Lato, 'Helvetica Neue Light', Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 1.5em;
+}
+
+#header a {
+    padding-left: 0.5em;
+    color: white;
+    text-decoration: none;
+    border-bottom-style: none;
+    display: block;
+}
+
+#header a:hover {
+    background: #5e5e5e;
+}
+
+
+/********\
+* FOOTER *
+\********/
+
+#footer,
+footer {
+    background: #5e5e5e;
+    padding: 1em 25px;
+    font-family: Lato, 'Helvetica Neue Light', Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 0.75em;
+    color: white;
+    text-align: right;
+}
+
+
+/********************\
+* NAVIGATION SIDEBAR *
+\********************/
+
+#sidebar,
+aside {
+    float: left;
+    width: 14em;
+    padding-top: 50px;
+    padding-left: 25px;
+    font-family: Lato, 'Helvetica Neue Light', Helvetica, sans-serif;;
+    font-weight: 300;
+    font-size: 1em;
+}
+
+#sidebar a,
+aside a {
+    color: #000;
+    text-decoration: none;
+    border-bottom-style: none;
+    display: block;
+}
+
+#sidebar a:hover,
+aside a:hover {
+    color: #000;
+    background-repeat:no-repeat;
+    background-position:right center;
+    border-bottom-style: none;
+    margin-right: 0.5em;
+}
+
+#sidebar a.publications:hover,
+aside a.publications:hover {
+    background-image:url("../img/icons/file-16.png");
+}
+
+#sidebar a.talks:hover,
+aside a.talks:hover {
+    background-image:url("../img/icons/speechbubble-16.png");
+}
+
+#sidebar a.academic:hover,
+aside a.academic:hover {
+    background-image:url("../img/icons/head-16.png");
+}
+
+#sidebar a.teaching:hover,
+aside a.teaching:hover {
+    background-image:url("../img/icons/pencil-16.png");
+}
+
+#sidebar a.tools:hover,
+aside a.tools:hover {
+    background-image:url("../img/icons/plugin-16.png");
+}
+
+
+#sidebar > ul > li,
+aside > nav > ul > li {
+    padding-top: 0.4em;
+    padding-bottom: 0.4em;
+    border-bottom: 1px solid #3283A4;
+    padding-left: 0.5em;
+    text-transform: uppercase;
+}
+
+#sidebar > ul > li:first-child,
+aside > nav > ul > li:first-child {
+    border-top: 1px solid #3283A4;
+}
+
+#sidebar > ul > li.active,
+aside > nav > ul > li.active {
+    font-family: Lato, 'Helvetica Neue Light', Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+
+#sidebar > ul > li:hover,
+aside > nav > ul > li:hover {
+    background-color: #CCE0E8;
+}
+
+#sidebar > ul > li.active:hover,
+aside > nav > ul > li.active:hover {
+    background-color: #fff;
+}
+
+#sidebar #address,
+aside #address {
+    margin-top: 50px;
+    border-top: 1px solid #3283A4;
+    border-bottom: 1px solid #3283A4;
+    padding-left: 0.5em;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 0.9em;
+}
+
+#sidebar #address a,
+aside #address a {
+    display: inline;
+}
+
+#sidebar #address p:last-child,
+aside #address p:last-child {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+
+
+
+/******\
+* NEWS *
+\******/
+
+ul.news > li {
+    margin-top: 0.2em;
+    line-height: 1em;
+    padding-bottom: 0em;
+    padding-top: 0;
+}
+
+ul.news  {
+    list-style-image: url("../img/icons/bullet.png");
+    list-style-position: outside;
+    padding: 0;
+    margin-left: 16px;
+}
+
+
+
+
+/*******\
+* TALKS *
+\*******/
+
+li:target {
+    background-color: #CCE0E8;
+    margin-left: -0.5em;
+    padding-left: 0.5em;
+    margin-right: -0.5em;
+    padding-right: 0.5em;
+}
+
+ul.talks > li {
+    margin-top: 0.75em;
+}
+
+ul.talks  {
+    list-style-image: url("../img/icons/bullet.png");
+    list-style-position: outside;
+    padding: 0;
+    margin-left: 32px;
+    margin-right: 80px;
+}
+
+.talks a[href^="http://www.slideshare.net"] {
+    text-decoration: none;
+    border-bottom-style: none;
+    float: right;
+    clear: right;
+    margin-top: -10px;
+    margin-right: -80px;
+}
+
+.talks a[href^="http://www.slideshare.net"]:before {
+    content: url("../img/icons/speechbubble-64.png");
+    text-decoration: none;
+    border-bottom-style: none;
+}
+
+.talks a[href^="http://vimeo.com"] {
+    text-decoration: none;
+    border-bottom-style: none;
+    float: right;
+    margin-top: -10px;
+    margin-right: 0px;
+}
+
+.talks a[href^="http://vimeo.com"]:before {
+    content: url("../img/icons/tv-64.png");
+    text-decoration: none;
+    border-bottom-style: none;
+}
+
+.talks a.evaluation {
+    text-decoration: none;
+    border-bottom-style: none;
+    float: right;
+    clear: right;
+    margin-top: -10px;
+    margin-right: -80px;
+}
+
+.talks a.evaluation:before {
+    content: url("../img/icons/diagram-64.png");
+    text-decoration: none;
+    border-bottom-style: none;
+}
+
+
+
+/**************\
+* PUBLICATIONS *
+\**************/
+
+html {
+    counter-reset: pubcount;
+}
+
+ul.publications  {
+    list-style-type: none;
+    list-style-position: inside;
+    padding: 0;
+    margin-left: 32px;
+    margin-right: 80px;
+}
+
+ul.publications > li {
+    margin-top: 0.75em;
+}
+
+/* numbering of publications */
+ul.publications > li:before {
+    color: #000;
+    content: "[" counter(pubcount) "] ";
+    counter-increment: pubcount;
+}
+
+.publications a.icon[href$=".pdf"] {
+    text-decoration: none;
+    border-bottom-style: none;
+    float: right;
+    clear: right;
+    margin-top: 0px;
+    margin-right: -80px;
+}
+
+.publications a.icon[href$=".pdf"]:before {
+    content: url("../img/icons/file-pdf-64.png");
+    text-decoration: none;
+    border-bottom-style: none;
+}
+
+
+
+/************\
+* INFO HOVER *
+\************/
+
+p:hover a.info, ul:hover a.info {
+    border-bottom: 1px dotted;
+}
+
+a.info {
+    position:relative; /*this is the key*/
+    z-index: 24;
+    color: #000;
+    text-decoration:none;
+    border-bottom-style: none;
+}
+
+a.info:hover{
+    z-index: 25;
+    background-color: #CCE0E8;
+    border-bottom: 0px;
+}
+
+a.info span{
+    display: none
+}
+
+a.info:hover span{ /*the span will display just on :hover state*/
+    display: block;
+    position: absolute;
+    top: 1.2em; left: 0em;
+    width: 400px;
+    height: 200px;
+    padding: 0;
+    margin: 0;
+    background: #CCE0E8;
+    border: 2px solid #CCE0E8;
+    -moz-box-shadow: 0px 0px 8px #666;
+    -webkit-box-shadow: 0px 0px 8px #666;
+    box-shadow: 0px 0px 8px #666;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+
+
+/*******\
+* PRINT *
+\*******/
+
+
+@media print {
+    h1 { color: black; }
+    #main {
+        padding-left: 0em;
+        padding-right: 0em;
+        width: 100%;
+    }
+    aside, nav, #header, footer, header img { display: none; }
+    .publications a[href$=".pdf"] { display: none; }
+}
