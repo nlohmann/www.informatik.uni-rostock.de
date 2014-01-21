@@ -4,10 +4,15 @@ import bibtex2xml
 from xml2dict import XML2Dict
 import time
 from utils import footer
+import os
 
 ###
 
-def pdf_link(entry):
+def pdf_link(entry, id):
+    pub_path = os.path.abspath('../../publications')
+    if os.path.exists(pub_path + '/' + id + '.pdf'):
+        return '<a class="icon" href="publications/' + id + '.pdf"></a>'
+    
     if 'pdf' in entry:
         return '<a class="icon" href="' + entry.pdf.value + '"></a>'
     else:
@@ -73,7 +78,7 @@ def print_techreport(entry, id):
     result = '<li id="' + id + '">'
 
     # PDF
-    result += pdf_link(entry)
+    result += pdf_link(entry, id)
 
     # author and title
     result += print_author(entry.author) + '. '
@@ -138,7 +143,7 @@ def print_thesis(entry, thesistype, id):
     result = '<li id="' + id + '">'
 
     # PDF
-    result += pdf_link(entry)
+    result += pdf_link(entry, id)
 
     # author and title
     result += print_author(entry.author) + '. '
@@ -197,7 +202,7 @@ def print_article(entry, id):
     result = '<li id="' + id + '">'
 
     # PDF
-    result += pdf_link(entry)
+    result += pdf_link(entry, id)
 
     # author and title
     result += print_author(entry.author) + '. '
@@ -264,7 +269,7 @@ def print_inbook(entry, id):
     result = '<li id="' + id + '">'
 
     # PDF
-    result += pdf_link(entry)
+    result += pdf_link(entry, id)
 
     # author and title
     result += print_author(entry.author) + '. '
@@ -323,7 +328,7 @@ def print_proceedings(entry, id):
     result = '<li id="' + id + '">'
 
     # PDF
-    result += pdf_link(entry)
+    result += pdf_link(entry, id)
 
     # author and title
     result += print_editor(entry.editor) + '. '
@@ -395,7 +400,7 @@ def print_inproceedings(entry, id):
     result = '<li id="' + id + '">'
 
     # PDF
-    result += pdf_link(entry)
+    result += pdf_link(entry, id)
 
     # author and title
     result += print_author(entry.author) + '. '
