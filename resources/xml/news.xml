@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <newsentries>
   <entries>
+      
+      <news type="free">
+        <begin>21 Jan 2014</begin>
+        <text>I implemented a complete self-archiving policy and made &lt;em&gt;all&lt;/em&gt; &lt;a href=&quot;publications.html&quot;&gt;my publications&lt;/a&gt; available for download.</text>
+      </news>
+
       <news type="venue">
         <begin>20 Feb 2014</begin>
         <end>21 Feb 2014</end>
