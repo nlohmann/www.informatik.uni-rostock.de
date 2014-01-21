@@ -14,7 +14,7 @@ cd resources/python
 
 cd ../..
 
-svn add publications/* 2> /dev/null
+#svn add publications/* 2> /dev/null
 
 for FILE in publications.html presentations.html academic.html teaching.html tools.html index.html
 do
