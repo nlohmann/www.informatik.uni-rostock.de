@@ -15,7 +15,8 @@ cd _publish
 rm -fr resources/bibtex resources/html resources/python resources/teaching resources/xml
 rm -fr *.sh
 
-rsync -rtv . /users/teo00/nl/public_html
+rm -fr /users/teo00/nl/public_html/*
+cp -r * /users/teo00/nl/public_html
 
 cd ..
 
