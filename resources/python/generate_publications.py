@@ -7,6 +7,18 @@ from utils import footer
 
 ###
 
+def pdf_link(entry):
+    if 'pdf' in entry:
+        return '<a class="icon" href="' + entry.pdf.value + '"></a>'
+    else:
+        return ''
+
+def pdf_iframe(entry):
+    if 'pdf' in entry:
+        return '<iframe src="http://docs.google.com/gview?url=' + entry.pdf.value + '&embedded=true" style="width:700px; height:1000px;" frameborder="0"></iframe>'
+    else:
+        return ''
+
 def entrybyname(id, data):
     for entry in data.file.entry:
         if entry.id == id:
@@ -48,8 +60,7 @@ def print_techreport(entry, id):
         output += ' in ' + entry.address.value
     output += '.</p>'
 
-    if 'pdf' in entry:
-        output += '<iframe src="http://docs.google.com/gview?url=' + entry.pdf.value + '&embedded=true" style="width:700px; height:1000px;" frameborder="0"></iframe>'
+    output += pdf_iframe(entry)
 
     output += '</div></div>'
     output += footer()
@@ -62,8 +73,7 @@ def print_techreport(entry, id):
     result = '<li id="' + id + '">'
 
     # PDF
-    if 'pdf' in entry:
-        result += '<a class="icon" href="' + entry.pdf.value + '"></a>'
+    result += pdf_link(entry)
 
     # author and title
     result += print_author(entry.author) + '. '
@@ -114,8 +124,7 @@ def print_thesis(entry, thesistype, id):
         output += ' in ' + entry.address.value
     output += '.</p>'
 
-    if 'pdf' in entry:
-        output += '<iframe src="http://docs.google.com/gview?url=' + entry.pdf.value + '&embedded=true" style="width:700px; height:1000px;" frameborder="0"></iframe>'
+    output += pdf_iframe(entry)
 
     output += '</div></div>'
     output += footer()
@@ -129,8 +138,7 @@ def print_thesis(entry, thesistype, id):
     result = '<li id="' + id + '">'
 
     # PDF
-    if 'pdf' in entry:
-        result += '<a class="icon" href="' + entry.pdf.value + '"></a>'
+    result += pdf_link(entry)
 
     # author and title
     result += print_author(entry.author) + '. '
@@ -176,8 +184,7 @@ def print_article(entry, id):
 
     output += '<p>Appeared in ' + entry.journal.value + '.</p>'
 
-    if 'pdf' in entry:
-        output += '<iframe src="http://docs.google.com/gview?url=' + entry.pdf.value + '&embedded=true" style="width:700px; height:1000px;" frameborder="0"></iframe>'
+    output += pdf_iframe(entry)
 
     output += '</div></div>'
     output += footer()
@@ -190,8 +197,7 @@ def print_article(entry, id):
     result = '<li id="' + id + '">'
 
     # PDF
-    if 'pdf' in entry:
-        result += '<a class="icon" href="' + entry.pdf.value + '"></a>'
+    result += pdf_link(entry)
 
     # author and title
     result += print_author(entry.author) + '. '
@@ -245,8 +251,7 @@ def print_inbook(entry, id):
 
     output += '<p>Appeared as chapter in ' + entry.title.value + '.</p>'
 
-    if 'pdf' in entry:
-        output += '<iframe src="http://docs.google.com/gview?url=' + entry.pdf.value + '&embedded=true" style="width:700px; height:1000px;" frameborder="0"></iframe>'
+    output += pdf_iframe(entry)
 
     output += '</div></div>'
     output += footer()
@@ -259,8 +264,7 @@ def print_inbook(entry, id):
     result = '<li id="' + id + '">'
 
     # PDF
-    if 'pdf' in entry:
-        result += '<a class="icon" href="' + entry.pdf.value + '"></a>'
+    result += pdf_link(entry)
 
     # author and title
     result += print_author(entry.author) + '. '
@@ -306,8 +310,7 @@ def print_proceedings(entry, id):
     if 'abstract' in entry:
         output += '<p style="margin-top: 1.5em;"><strong>Abstract.</strong> ' + entry.abstract.value + '</p>'
 
-    if 'pdf' in entry:
-        output += '<iframe src="http://docs.google.com/gview?url=' + entry.pdf.value + '&embedded=true" style="width:700px; height:1000px;" frameborder="0"></iframe>'
+    output += pdf_iframe(entry)
 
     output += '</div></div>'
     output += footer()
@@ -320,8 +323,7 @@ def print_proceedings(entry, id):
     result = '<li id="' + id + '">'
 
     # PDF
-    if 'pdf' in entry:
-        result += '<a class="icon" href="' + entry.pdf.value + '"></a>'
+    result += pdf_link(entry)
 
     # author and title
     result += print_editor(entry.editor) + '. '
@@ -380,8 +382,7 @@ def print_inproceedings(entry, id):
 
     output += ' in ' + entry.booktitle.value + '.</p>'
 
-    if 'pdf' in entry:
-        output += '<iframe src="http://docs.google.com/gview?url=' + entry.pdf.value + '&embedded=true" style="width:700px; height:1000px;" frameborder="0"></iframe>'
+    output += pdf_iframe(entry)
 
     output += '</div></div>'
     output += footer()
@@ -394,8 +395,7 @@ def print_inproceedings(entry, id):
     result = '<li id="' + id + '">'
 
     # PDF
-    if 'pdf' in entry:
-        result += '<a class="icon" href="' + entry.pdf.value + '"></a>'
+    result += pdf_link(entry)
 
     # author and title
     result += print_author(entry.author) + '. '

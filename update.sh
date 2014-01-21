@@ -25,4 +25,4 @@ do
   mv $FILE~ $FILE
 done
 
-rm resources/python/*.pyc
+rm -fr resources/python/__pycache__
