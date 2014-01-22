@@ -18,7 +18,11 @@ def pdf_link(entry, id):
     else:
         return ''
 
-def pdf_iframe(entry):
+def pdf_iframe(entry, id):
+    pub_path = os.path.abspath('../../publications')
+    if os.path.exists(pub_path + '/' + id + '.pdf'):
+        return '<iframe src="http://docs.google.com/gview?url=http://www.informatik.uni-rostock.de/~nl/publications/' + id + '.pdf&embedded=true" style="width:700px; height:1000px;" frameborder="0"></iframe>'
+
     if 'pdf' in entry:
         return '<iframe src="http://docs.google.com/gview?url=' + entry.pdf.value + '&embedded=true" style="width:700px; height:1000px;" frameborder="0"></iframe>'
     else:
@@ -65,7 +69,7 @@ def print_techreport(entry, id):
         output += ' in ' + entry.address.value
     output += '.</p>'
 
-    output += pdf_iframe(entry)
+    output += pdf_iframe(entry, id)
 
     output += '</div></div>'
     output += footer()
@@ -129,7 +133,7 @@ def print_thesis(entry, thesistype, id):
         output += ' in ' + entry.address.value
     output += '.</p>'
 
-    output += pdf_iframe(entry)
+    output += pdf_iframe(entry, id)
 
     output += '</div></div>'
     output += footer()
@@ -189,7 +193,7 @@ def print_article(entry, id):
 
     output += '<p>Appeared in ' + entry.journal.value + '.</p>'
 
-    output += pdf_iframe(entry)
+    output += pdf_iframe(entry, id)
 
     output += '</div></div>'
     output += footer()
@@ -256,7 +260,7 @@ def print_inbook(entry, id):
 
     output += '<p>Appeared as chapter in ' + entry.title.value + '.</p>'
 
-    output += pdf_iframe(entry)
+    output += pdf_iframe(entry, id)
 
     output += '</div></div>'
     output += footer()
@@ -315,7 +319,7 @@ def print_proceedings(entry, id):
     if 'abstract' in entry:
         output += '<p style="margin-top: 1.5em;"><strong>Abstract.</strong> ' + entry.abstract.value + '</p>'
 
-    output += pdf_iframe(entry)
+    output += pdf_iframe(entry, id)
 
     output += '</div></div>'
     output += footer()
@@ -387,7 +391,7 @@ def print_inproceedings(entry, id):
 
     output += ' in ' + entry.booktitle.value + '.</p>'
 
-    output += pdf_iframe(entry)
+    output += pdf_iframe(entry, id)
 
     output += '</div></div>'
     output += footer()
