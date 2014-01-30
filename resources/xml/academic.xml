@@ -45,6 +45,34 @@
 
   <memberships>
     <pc>
+      <title>Petri Nets and Software Engineering</title>
+      <kind>International Workshop</kind>
+      <abbreviation>PNSE 2014</abbreviation>
+      <url>http://www.informatik.uni-hamburg.de/TGI/events/pnse14/</url>
+      <cfp>http://www.informatik.uni-hamburg.de/TGI/events/pnse14/pnse14-cfp.pdf</cfp>
+      <colocation>PETRI NETS 2014</colocation>
+      <courl>http://petrinets2014.cnam.fr</courl>
+      <venue>Tunis, Tunesia</venue>
+      <date>30 Jan 2014</date>
+      <begin>23 Jun 2014</begin>
+      <end>24 Jun 2014</end>
+    </pc>
+
+    <pc>
+      <title>Web Services and Formal Methods: Formal Aspects of Service-Oriented and Cloud Computing</title>
+      <kind>11th International Workshop</kind>
+      <abbreviation>WS-FM 2014</abbreviation>
+      <url>http://wsfm2014.haifa.ac.il</url>
+      <cfp>http://wsfm2014.haifa.ac.il/?page_id=15</cfp>
+      <colocation>BPM 2014</colocation>
+      <courl>http://bpm2014.haifa.ac.il</courl>
+      <venue>Haifa, Israel</venue>
+      <date>30 Jan 2014</date>
+      <begin>11 Sep 2014</begin>
+      <end>12 Sep 2014</end>
+    </pc>
+
+    <pc>
       <title>Event Modeling and Processing in Business Process Management</title>
       <kind>1st Workshop</kind>
       <abbreviation>EMoV 2014</abbreviation>
