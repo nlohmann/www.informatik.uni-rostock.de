@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <newsentries>
   <entries>
+    <news type="paper_accepted">
+      <begin>10 Feb 2014</begin>
+      <paper>Lohmann_2014_zeus</paper>
+    </news>
+
     <news type="free">
       <begin>21 Jan 2014</begin>
       <text>I implemented a complete self-archiving policy and made &lt;em&gt;all&lt;/em&gt; &lt;a href=&quot;publications.html&quot;&gt;my publications&lt;/a&gt; available for download.</text>
