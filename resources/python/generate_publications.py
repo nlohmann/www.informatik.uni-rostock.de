@@ -113,6 +113,10 @@ def print_techreport(entry, id):
     if 'note' in entry:
         result += ' ' + entry.note
 
+    # DOI
+    if 'doi' in entry:
+        result += ' <small><a href="http://dx.doi.org/' + entry.doi.value + '">DOI</a></small>'
+
     result += '</li>'
     return result
 
@@ -175,6 +179,10 @@ def print_thesis(entry, thesistype, id):
     # note
     if 'note' in entry:
         result += ' ' + entry.note
+
+    # DOI
+    if 'doi' in entry:
+        result += ' <small><a href="http://dx.doi.org/' + entry.doi.value + '">DOI</a></small>'
 
     result += '</li>'
     return result
@@ -242,6 +250,10 @@ def print_article(entry, id):
     if 'note' in entry:
         result += ' ' + entry.note.value
 
+    # DOI
+    if 'doi' in entry:
+        result += ' <small><a href="http://dx.doi.org/' + entry.doi.value + '">DOI</a></small>'
+
     result += '</li>'
     return result
 
@@ -303,6 +315,10 @@ def print_inbook(entry, id):
     if 'note' in entry:
         result += ' ' + entry.note.value
 
+    # DOI
+    if 'doi' in entry:
+        result += ' <small><a href="http://dx.doi.org/' + entry.doi.value + '">DOI</a></small>'
+
     result += '</li>'
     return result
 
@@ -361,6 +377,10 @@ def print_proceedings(entry, id):
     # note
     if 'note' in entry:
         result += ' ' + entry.note.value
+
+    # DOI
+    if 'doi' in entry:
+        result += ' <small><a href="http://dx.doi.org/' + entry.doi.value + '">DOI</a></small>'
 
     result += '</li>'
     return result
@@ -442,6 +462,10 @@ def print_inproceedings(entry, id):
     # note
     if 'note' in entry:
         result += ' ' + entry.note.value
+
+    # DOI
+    if 'doi' in entry:
+        result += ' <small><a href="http://dx.doi.org/' + entry.doi.value + '">DOI</a></small>'
 
     result += '</li>'
     return result
