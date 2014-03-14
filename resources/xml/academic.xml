@@ -45,6 +45,20 @@
 
   <memberships>
     <pc>
+      <title>Compliance, Evolution and 
+Security in Cross-Organizational Processes</title>
+      <kind>1st International Workshop</kind>
+      <abbreviation>CeSCoP 2014</abbreviation>
+      <url>http://cescop.edoc2014.org</url>
+      <colocation>EDOC Conference</colocation>
+      <courl>http://www.edoc2014.org</courl>
+      <venue>Ulm, Germany</venue>
+      <date>13 Mar 2014</date>
+      <begin>01 Sep 2014</begin>
+      <end>01 Sep 2014</end>
+    </pc>
+
+    <pc>
       <title>Petri Nets and Software Engineering</title>
       <kind>International Workshop</kind>
       <abbreviation>PNSE 2014</abbreviation>
