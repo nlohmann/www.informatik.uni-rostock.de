@@ -2,6 +2,11 @@
 <newsentries>
   <entries>
     <news type="paper_accepted">
+      <begin>23 May 2014</begin>
+      <paper>LohmannF_2014_bpm</paper>
+    </news>
+
+    <news type="paper_accepted">
       <begin>10 Feb 2014</begin>
       <paper>Lohmann_2014_zeus</paper>
     </news>
